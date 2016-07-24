@@ -1,0 +1,629 @@
+{
+  "ver": "20160430.1",
+  "list": [
+    {
+      "id": "DI9hDdmxTT8",
+      "title": "Diva The Series",
+      "ver": "20160429.1",
+      "list": [
+        {
+          "id": "DI9hDdmxTT8",
+          "title": "Themesong, Diva The Series",
+          "duration": "0:35"
+        },
+        {
+          "id": "06ecivmEKi0",
+          "title": "EP01 Robotku dan Robotmu",
+          "duration": "10:00"
+        },
+        {
+          "id": "xUg-uVBb7ag",
+          "title": "EP02 Tomi Suka Bohong",
+          "duration": "10:00"
+        },
+        {
+          "id": "C5aeSKjvRK8",
+          "title": "EP03 Ada PR dari Buguru",
+          "duration": "10:00"
+        },
+        {
+          "id": "6ecOsohCSbA",
+          "title": "EP04 Bukan Aku",
+          "duration": "10:00"
+        },
+        {
+          "id": "J40V-vVR0I8",
+          "title": "EP05 Jangan Marah",
+          "duration": "10:00"
+        },
+        {
+          "id": "Kb1oQvZ3ZtI",
+          "title": "EP06 Saat Tomi Kehilangan Putu",
+          "duration": "10:00"
+        },
+        {
+          "id": "vzuQC8gfpfw",
+          "title": "EP07 Pembalasan Diva",
+          "duration": "10:00"
+        },
+        {
+          "id": "BTZGiCUlplk",
+          "title": "EP08 Diva Cegukan",
+          "duration": "10:00"
+        },
+        {
+          "id": "rqy06HFA2iM",
+          "title": "EP09 Mengambil Buah Rambutan",
+          "duration": "10:00"
+        },
+        {
+          "id": "SpJRqh32_Ho",
+          "title": "EP10 Temanku Sakit",
+          "duration": "10:00"
+        },
+        {
+          "id": "7wBCCYlVBMs",
+          "title": "EP41 Balon Harapan",
+          "duration": "10:04"
+        },
+        {
+          "id": "BBF_qIe5hQg",
+          "title": "EP42 Menangkap Jeko",
+          "duration": "10:01"
+        },
+        {
+          "id": "XuYbEWpR0_c",
+          "title": "EP43 Kartu Pos Tomi",
+          "duration": "10:02"
+        },
+        {
+          "id": "pWIDXAvZFpg",
+          "title": "EP44 Pencuri Misterius",
+          "duration": "10:02"
+        },
+        {
+          "id": "cNO7iLNTzrc",
+          "title": "EP45 Gerhana Bulan",
+          "duration": "10:02"
+        },
+        {
+          "id": "0be7CCMRqjE",
+          "title": "EP46 Poci Kesayangan Ibu",
+          "duration": "10:02"
+        },
+        {
+          "id": "0y6exkcp48c",
+          "title": "EP47 Dicium Singa Laut",
+          "duration": "10:02"
+        },
+        {
+          "id": "-0wfV4Q9e8I",
+          "title": "EP48 Guling Diva",
+          "duration": "10:03"
+        },
+        {
+          "id": "q54_4WbkkFc",
+          "title": "EP49 Bermain Warna",
+          "duration": "10:00"
+        },
+        {
+          "id": "TcdMzB0y0Dg",
+          "title": "EP50 Jangan Menaruh Barang Sembarangan",
+          "duration": "10:00"
+        }
+      ]
+    },
+    {
+      "id": "YlzYb_HL_hw",
+      "title": "Flim Kartun Anak Anak Pilihan",
+      "ver": "20160429.1",
+      "list": [
+        {
+          "id": "YlzYb_HL_hw",
+          "title": "Cerita Rakyat Timun Mas",
+          "duration": "52:29"
+        },
+        {
+          "id": "mSBVpuCXmrU",
+          "title": "Petualangan Kancil Keledai dan Katak",
+          "duration": "23:18"
+        },
+        {
+          "id": "SGK6rwY6hKI",
+          "title": "Si Kancil dan Rubah Yang Serakah",
+          "duration": "31:55"
+        },
+        {
+          "id": "XFWqPiB50hk",
+          "title": "Petualangan Si Kancil Si Cerdik",
+          "duration": "35:25"
+        },
+        {
+          "id": "rp9FkbECEhs",
+          "title": "Mengapa Pungguk Rindukan Bulan",
+          "duration": "20:13"
+        },
+        {
+          "id": "in1uk7ogT3M",
+          "title": "Kisah Petualangan Kancil Dan Kura Kura",
+          "duration": "38:30"
+        },
+        {
+          "id": "yhowyT7xeb0",
+          "title": "Kisah Yaganduran Yang Pemberani",
+          "duration": "21:20"
+        },
+        {
+          "id": "wduE3Nz3wMI",
+          "title": "Kisah Si Pembuat Tembikar",
+          "duration": "21:08"
+        },
+        {
+          "id": "WR64WLBPKv8",
+          "title": "Kisah Si Luncai",
+          "duration": "21:13"
+        },
+        {
+          "id": "lzJPgUksy2A",
+          "title": "Kisah Si Awang Kenit Terlahir di Buah Kelapa",
+          "duration": "21:18"
+        },
+        {
+          "id": "HHHQZ4jwTIM",
+          "title": "Petualangan Si Kancil Serigala Bayangan & Tanduk Yang Patah",
+          "duration": "11:59"
+        },
+        {
+          "id": "aFwt1ga1dwU",
+          "title": "Petualangan Si Kancil Rubah Unta dan Keledai Katak",
+          "duration": "11:10"
+        },
+        {
+          "id": "MoTRs4cSuXY",
+          "title": "Dongeng Palu Ajaib",
+          "duration": "21:19"
+        },
+        {
+          "id": "qcZTbG8mqOQ",
+          "title": "Cerita Rakyat Keong Mas dan Timun Mas",
+          "duration": "20:22"
+        }
+      ]
+    },
+    {
+      "id": "GQMzwDAr6tE",
+      "title": "Lagu Anak Indonesia - kastari Animation Official",
+      "ver": "20160429.1",
+      "list": [
+        {
+          "id": "GQMzwDAr6tE",
+          "title": "Rukun Islam bersama Diva",
+          "duration": "3:11"
+        },
+        {
+          "id": "VQ25j4VCHu0",
+          "title": "HALO HALO BANDUNG HD",
+          "duration": "3:15"
+        },
+        {
+          "id": "I22UzdFDCew",
+          "title": "HARI MERDEKA HD",
+          "duration": "3:13"
+        },
+        {
+          "id": "kYZKkqv1Xyk",
+          "title": "Bulan dan Matahari",
+          "duration": "4:31"
+        },
+        {
+          "id": "ROg1rBfbpoY",
+          "title": "BALONKU",
+          "duration": "2:33"
+        },
+        {
+          "id": "cGb3bIoPMSc",
+          "title": "BURUNG HANTU",
+          "duration": "3:09"
+        },
+        {
+          "id": "amC1sVwNPsE",
+          "title": "BANGUN TIDUR HD",
+          "duration": "1:54"
+        },
+        {
+          "id": "ByZhU-Ybc_w",
+          "title": "Home Alone",
+          "duration": "4:05"
+        },
+        {
+          "id": "NAT89oYinxE",
+          "title": "AYO BERHITUNG",
+          "duration": "3:37"
+        },
+        {
+          "id": "mo8n67d5BTM",
+          "title": "Tebak-Tebakan",
+          "duration": "4:30"
+        },
+        {
+          "id": "3H0JNXwF9bc",
+          "title": "BURUNG KAKAK TUA HD",
+          "duration": "3:28"
+        },
+        {
+          "id": "0mCiTReXPTA",
+          "title": "Kunang Kunang",
+          "duration": "3:58"
+        },
+        {
+          "id": "XVW1v7PWnhg",
+          "title": "BENTUK DAN WARNA",
+          "duration": "2:18"
+        },
+        {
+          "id": "bcuxzcGziZo",
+          "title": "Kampung Kakek",
+          "duration": "3:43"
+        },
+        {
+          "id": "7p4LuOwKA_w",
+          "title": "POTONG BEBEK ANGSA",
+          "duration": "2:15"
+        },
+        {
+          "id": "7IkX4D14M30",
+          "title": "BINTANG KECIL HD",
+          "duration": "3:07"
+        },
+        {
+          "id": "4pdhYZb5118",
+          "title": "TAMAN KANAK KANAK HD",
+          "duration": "2:28"
+        },
+        {
+          "id": "AscPw7aF_58",
+          "title": "Bangun Tidur",
+          "duration": "1:53"
+        },
+        {
+          "id": "SFtnK89Icqs",
+          "title": "Duta dan Diti",
+          "duration": "4:11"
+        },
+        {
+          "id": "x-6pmtLLTpY",
+          "title": "Aku Pasti Bisa",
+          "duration": "1:05"
+        },
+        {
+          "id": "2iioM_1YyLE",
+          "title": "Belajar Berdo'a bersama Diva",
+          "duration": "1:52"
+        },
+        {
+          "id": "2BG93hhmJBQ",
+          "title": "Huruf dan Angka",
+          "duration": "3:14"
+        },
+        {
+          "id": "r2AADIwI7KU",
+          "title": "Ayo Puasa",
+          "duration": "3:14"
+        },
+        {
+          "id": "OWKj2obA1WQ",
+          "title": "Menaklukkan setan melalui doa",
+          "duration": "2:53"
+        },
+        {
+          "id": "S9PzyKy_JbI",
+          "title": "Alhamdulillah Aku Bisa",
+          "duration": "1:13"
+        },
+        {
+          "id": "KTM-3mYu4yE",
+          "title": "Naik Naik Ke Puncak Gunung",
+          "duration": "3:57"
+        },
+        {
+          "id": "aj-RCsedk-0",
+          "title": "Berkibarlah Benderaku (Lagu Nasional Indonesia)",
+          "duration": "2:51"
+        },
+        {
+          "id": "bg-PONkqgtA",
+          "title": "Maju Tak Gentar (Lagu Nasional Indonesia)",
+          "duration": "2:59"
+        },
+        {
+          "id": "AiI4bDiz25k",
+          "title": "Garuda Pancasila (Lagu Nasional Indonesia)",
+          "duration": "3:04"
+        },
+        {
+          "id": "XQSs3Hd85mE",
+          "title": "Bangun Tidur (short version)",
+          "duration": "0:42"
+        },
+        {
+          "id": "eQy1B-NTaJw",
+          "title": "Hari Merdeka (Lagu Nasional Indonesia)",
+          "duration": "2:37"
+        },
+        {
+          "id": "LeZ6vFpoJ2c",
+          "title": "Halo Halo Bandung (Lagu Nasional Indonesia)",
+          "duration": "2:40"
+        },
+        {
+          "id": "E0Cjp9bTdWg",
+          "title": "Indonesia Raya (Lagu Nasional Indonesia)",
+          "duration": "3:24"
+        },
+        {
+          "id": "q94Okzru8pM",
+          "title": "Gunakan Waktumu",
+          "duration": "2:41"
+        },
+        {
+          "id": "28twTtBXvbo",
+          "title": "Ku tahu jam berapa",
+          "duration": "1:11"
+        },
+        {
+          "id": "Gwx2ijB5Tbw",
+          "title": "Bangun Tidur Burung Hantu Bintang Kecil",
+          "duration": "6:53"
+        },
+        {
+          "id": "cPHxEiuhXso",
+          "title": "Burung Kakak Tua Taman Kanak Kanak Bentuk dan Warna",
+          "duration": "6:57"
+        },
+        {
+          "id": "5TJnRGijrTI",
+          "title": "Bentuk dan Warna",
+          "duration": "2:27"
+        }
+      ]
+    },
+    {
+      "id": "xX03URqmW9A",
+      "title": "Lagu Shalawat Anak Anak",
+      "ver": "20160429.1",
+      "list": [
+        {
+          "id": "xX03URqmW9A",
+          "title": "Sholwatan Zaman Akhir KH Anwar Zahid dan Mila",
+          "duration": "6:13"
+        },
+        {
+          "id": "DFZ6XCwvlXQ",
+          "title": "Sholwatan Yaa Badrotim KH Anwar Zahid Feat Mila",
+          "duration": "5:45"
+        },
+        {
+          "id": "zIU3kKgEfhQ",
+          "title": "Sholwatan Tombo Ati KH Anwar Zahid Feat Mila",
+          "duration": "6:27"
+        },
+        {
+          "id": "vgB_Up4oXvY",
+          "title": "Sholawatan Iyun Iyun Mila",
+          "duration": "4:45"
+        },
+        {
+          "id": "M0YUXtR-mFo",
+          "title": "Sholawatan Bissmillah KH Anwar Zahid Feat Mila",
+          "duration": "4:55"
+        },
+        {
+          "id": "wAZlDSb4cTs",
+          "title": "Sholawatan Lir Ilir Mila & Cantik",
+          "duration": "4:26"
+        },
+        {
+          "id": "ffJxyWSBge8",
+          "title": "Lagu Shalawat Anak Yaa Rasuulallah Salam",
+          "duration": "5:13"
+        },
+        {
+          "id": "WV11g2oAQV4",
+          "title": "Lagu Shalawat Anak Ya Rasullallah",
+          "duration": "4:59"
+        },
+        {
+          "id": "DsZWjtbDG44",
+          "title": "Lagu Shalawat Anak Ya Rasul Dea Ananda",
+          "duration": "3:56"
+        },
+        {
+          "id": "ywGgcNgrwko",
+          "title": "Lagu Shalawat Anak Ya Rabi II",
+          "duration": "4:06"
+        },
+        {
+          "id": "UTnsfjwUm1Q",
+          "title": "Lagu Shalawat Anak Ya Rabi I",
+          "duration": "4:34"
+        },
+        {
+          "id": "cF-qt3Cweck",
+          "title": "Lagu Shalawat Anak Ya Nabi Salamun",
+          "duration": "4:22"
+        },
+        {
+          "id": "RoeozBaLB_E",
+          "title": "Lagu Shalawat Anak Ya Nabi Salam",
+          "duration": "5:00"
+        },
+        {
+          "id": "vBuDgAXMUSk",
+          "title": "Lagu Shalawat Anak Tombo Ati",
+          "duration": "5:05"
+        },
+        {
+          "id": "mUufUHsC108",
+          "title": "Lagu Shalawat Anak Shalawat Burdah",
+          "duration": "4:17"
+        },
+        {
+          "id": "3m6bZ6o7mq0",
+          "title": "Lagu Shalawat Anak Shalawat Badar",
+          "duration": "4:22"
+        },
+        {
+          "id": "I1MPzDSsH4Q",
+          "title": "Lagu Shalawat Anak Asyraqal Badru' Alaina",
+          "duration": "4:25"
+        }
+      ]
+    },
+    {
+      "id": "G4PsA7R8WkE",
+      "title": "Video Kartun Anak Islami",
+      "ver": "20160429.1",
+      "list": [
+        {
+          "id": "G4PsA7R8WkE",
+          "title": "Adab Tidur",
+          "duration": "5:18"
+        },
+        {
+          "id": "t-UCsvBd3Y0",
+          "title": "A Way Of Life",
+          "duration": "1:41"
+        },
+        {
+          "id": "Ssy37E0PynE",
+          "title": "123",
+          "duration": "1:43"
+        },
+        {
+          "id": "xsPF9Bw9iok",
+          "title": "25 Nabi dan Rasul",
+          "duration": "4:53"
+        }
+      ]
+    },
+    {
+      "id": "xGpsVmWLRFA",
+      "title": "알파벳",
+      "ver": "20160429.1",
+      "list": [
+        {
+          "id": "xGpsVmWLRFA",
+          "title": "Jolly Phonics Phase Two",
+          "duration": "7:35"
+        },
+        {
+          "id": "yjKq8s8154s",
+          "title": "Jolly Phonics Phase Three",
+          "duration": "4:32"
+        },
+        {
+          "id": "EFNWdqtqw44",
+          "title": "Jolly Phonics Vowels",
+          "duration": "3:23"
+        },
+        {
+          "id": "4y702L9L7po",
+          "title": "Jolly Songs Vowels",
+          "duration": "3:24"
+        },
+        {
+          "id": "H563FeVdPYw",
+          "title": "taladAlpbV1",
+          "duration": "6:00"
+        },
+        {
+          "id": "ogiPxeoAzPw",
+          "title": "taladAlpbV2",
+          "duration": "6:00"
+        },
+        {
+          "id": "6r_WUxcWtkc",
+          "title": "Fun Phonics Readers ABC Chant",
+          "duration": "3:47"
+        }
+      ]
+    },
+    {
+      "id": "Gy9uVjkxMcQ",
+      "title": "Bahasa Inggris Anak-Anak",
+      "ver": "20160429.1",
+      "list": [
+        {
+          "id": "Gy9uVjkxMcQ",
+          "title": "Belajar Bahasa Inggris Anak-Anak Percakapan Di Kelas",
+          "duration": "3:21"
+        },
+        {
+          "id": "OqhUafUwpjY",
+          "title": "Bertanya Umur Dalam Bahasa Inggris - Percakapan Sehari-Hari",
+          "duration": "4:12"
+        },
+        {
+          "id": "SrQ3OiJfV7A",
+          "title": "Belajar Bahasa Inggris Percakapan Bertanya Warna",
+          "duration": "4:07"
+        },
+        {
+          "id": "s7MgEIcO_H4",
+          "title": "Bertanya Dan Menunjukkan Lokasi Dalam Bahasa Inggris",
+          "duration": "3:33"
+        },
+        {
+          "id": "05oIIYFRh3s",
+          "title": "Belajar Percakapan Bahasa Inggris Sehari-Hari - Bertanya Waktu",
+          "duration": "4:59"
+        },
+        {
+          "id": "SiBX4ejexcs",
+          "title": "Latihan Percakapan Bahasa Inggris Sehari-Hari Apa Yang Kamu Lakukan",
+          "duration": "3:29"
+        },
+        {
+          "id": "ahGV4weQGyo",
+          "title": "Bahasa Inggris Untuk Anak-Anak Bertanya Jumlah",
+          "duration": "4:23"
+        },
+        {
+          "id": "z_4OOd9FHl8",
+          "title": "Mengenal Musim Dalam Bahasa Inggris",
+          "duration": "3:30"
+        },
+        {
+          "id": "j8B5QQG3DLE",
+          "title": "Video Pengetahuan Untuk Anak Mengenal Energi",
+          "duration": "4:15"
+        },
+        {
+          "id": "9Otl3yVHDY4",
+          "title": "Belajar Angka Dalam Bahasa Inggris",
+          "duration": "5:11"
+        },
+        {
+          "id": "UIB_m_qBMBA",
+          "title": "Bahasa Inggris Percakapan Sehari-Hari Di Supermarket",
+          "duration": "4:18"
+        },
+        {
+          "id": "reLAHLM7UXY",
+          "title": "Mengenal Nama Binatang Dalam Bahasa Inggris",
+          "duration": "2:25"
+        },
+        {
+          "id": "nZizcxHlir4",
+          "title": "Video Edukatif Belajar Berhitung 1 - 10 Bahasa Inggris Anak Balita",
+          "duration": "2:05"
+        },
+        {
+          "id": "FjZgxeXkv34",
+          "title": "Belajar Mengenal Warna Dalam Bahasa Inggris",
+          "duration": "1:03"
+        }
+      ]
+    }
+  ]
+}
