@@ -1,10 +1,10 @@
 {
-  "ver": "20160609.1",
+  "ver": "20160730.1",
   "list": [
     {
       "id": "JiIdt6h7qWo",
       "title": "내 사랑 뚱(I love ddung)",
-      "ver": "20160414.2",
+      "ver": "20160730.1",
       "list": [
         {
           "id": "JiIdt6h7qWo",
@@ -505,56 +505,76 @@
           "id": "LZ5jtxAsbfs",
           "title": "50화[2/2]",
           "duration": "5:03"
+        },
+        {
+          "id": "KQ-JxDebR_4",
+          "title": "51화[1/2]",
+          "duration": "6:08"
+        },
+        {
+          "id": "AYa0BYfx4IY",
+          "title": "51화[2/2]",
+          "duration": "6:06"
+        },
+        {
+          "id": "XnzWRijWe1c",
+          "title": "52화[1/2]",
+          "duration": "4:52"
+        },
+        {
+          "id": "vskHwpba5mE",
+          "title": "52화[2/2]",
+          "duration": "4:51"
         }
       ]
     },
     {
       "id": "hJecvfpr9cg",
-      "title": "내 사랑 뚱 2 ",
-      "ver": "20160609.1",
+      "title": "내 사랑 뚱 2",
+      "ver": "20160730.1",
       "list": [
         {
-          "id": "hJecvfpr9cg",
+          "id": "JRxHwtnSmNY",
           "title": "물고기가 없어졌어요",
           "duration": "11:54"
         },
         {
-          "id": "t_X0izDUCN8",
+          "id": "v17MdTovBPQ",
           "title": "비가 많이 와요",
           "duration": "11:39"
         },
         {
-          "id": "eZ6M_tsBrvs",
+          "id": "v-L6bem8ZqA",
           "title": "엄마의 건망증",
           "duration": "11:41"
         },
         {
-          "id": "WER1vHmuVc4",
+          "id": "_V41mhZ4zx8",
           "title": "시장 놀이를 해요",
           "duration": "12:09"
         },
         {
-          "id": "_xELQ95vznw",
+          "id": "Ey-5EnZSFjo",
           "title": "함께 운동해요",
           "duration": "11:30"
         },
         {
-          "id": "Ibp580LdA2g",
+          "id": "7uFJ3SNtdm0",
           "title": "송이가 뚱이를 관찰해요",
           "duration": "12:15"
         },
         {
-          "id": "xb0_9-ukAAA",
+          "id": "dsgQ8-iLwjI",
           "title": "엄마가 살을 빼요",
           "duration": "11:15"
         },
         {
-          "id": "Ai1FtdCSd_k",
+          "id": "kErCehxKuxo",
           "title": "아빠가 아파요",
           "duration": "11:10"
         },
         {
-          "id": "ePTC-kmPqf8",
+          "id": "4esROvjpQJw",
           "title": "간식을 먹고 싶어요",
           "duration": "11:05"
         },
@@ -564,12 +584,12 @@
           "duration": "11:32"
         },
         {
-          "id": "iNeZBKoeEe4",
+          "id": "1354PL7Sc5A",
           "title": "밤이 무서워요",
           "duration": "11:52"
         },
         {
-          "id": "DrDarqgWqHs",
+          "id": "Waj02VQTNHY",
           "title": "봉구야  고마워",
           "duration": "11:41"
         },

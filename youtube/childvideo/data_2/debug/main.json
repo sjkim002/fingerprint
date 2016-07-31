@@ -1,5 +1,5 @@
 {
-  "ver": "20160716.2",
+  "ver": "20160730.2",
   "list": [
     {
       "id": "tdLeW41jdBo",
@@ -282,7 +282,7 @@
       "id": "JiIdt6h7qWo",
       "title": "내 사랑 뚱(I love ddung)",
       "file": "mylove_ddung",
-      "ver": "20160609.1"
+      "ver": "20160730.1"
     },
     {
       "id": "RRJjTVJFeak",
@@ -330,13 +330,13 @@
       "id": "TMg8X_d2Vek",
       "title": "동요모음",
       "file": "children_song",
-      "ver": "20160525.1"
+      "ver": "20160730.1"
     },
     {
       "id": "cPHdVIhmKa4",
       "title": "동요모음(영어)",
       "file": "children_song_eng",
-      "ver": "20160525.1"
+      "ver": "20160730.2"
     },
     {
       "id": "BgMokbQtxYo",
@@ -384,7 +384,7 @@
       "id": "kEAbfuANKWw",
       "title": "일본어",
       "file": "japanese",
-      "ver": "20160606.1"
+      "ver": "20160730.1"
     },
     {
       "id": "Bs4nLl95DoU",
@@ -741,10 +741,10 @@
       "ver": "20160501.1"
     },
     {
-      "id": "3F_SmhJR8N8",
+      "id": "jTAxlwKb2gY",
       "title": "내 친구 호비",
       "file": "my_friend_hovey",
-      "ver": "20160612.1"
+      "ver": "20160730.1"
     },
     {
       "id": "4QBTX3IQH8k",
@@ -762,7 +762,7 @@
       "id": "Lpod_gvdGM8",
       "title": "다다다",
       "file": "dadada",
-      "ver": "20160501.1"
+      "ver": "20160730.1"
     },
     {
       "id": "4xFD4Oc7Ikg",
@@ -804,7 +804,7 @@
       "id": "GRsMVw9A6fE",
       "title": "후플라키즈TV(영어)",
       "file": "hoopla_kidz_tv",
-      "ver": "20160501.1"
+      "ver": "20160730.1"
     },
     {
       "id": "6D1uM-mPLls",
@@ -1149,10 +1149,10 @@
       "ver": "20160501.1"
     },
     {
-      "id": "_ji6NoIj--g",
+      "id": "Bjo9fCWH4PQ",
       "title": "클레이 요정 몽몽이",
       "file": "fairy_clay_mongmongyi",
-      "ver": "20160612.1"
+      "ver": "20160730.1"
     },
     {
       "id": "OOUI4plPJ_4",
@@ -1359,10 +1359,10 @@
       "ver": "20160501.1"
     },
     {
-      "id": "iqEJNWnVLy8",
+      "id": "V8O5jgcL-fM",
       "title": "프랭키와 친구들",
       "file": "franky_and_friends",
-      "ver": "20160501.1"
+      "ver": "20160730.1"
     },
     {
       "id": "386FzKvaDIY",
@@ -1371,10 +1371,10 @@
       "ver": "20160501.1"
     },
     {
-      "id": "wA5vfJr2pAU",
+      "id": "QSXPID0um1M",
       "title": "피들리 팜",
       "file": "piddleypom",
-      "ver": "20160612.1"
+      "ver": "20160730.1"
     },
     {
       "id": "X6kRBlwebDg",
@@ -1401,10 +1401,10 @@
       "ver": "20160501.1"
     },
     {
-      "id": "5WOXUGp7vTg",
+      "id": "-59LmFppD4I",
       "title": "아기고릴라 둥둥",
       "file": "baby_gorilla_doong_doong",
-      "ver": "20160501.1"
+      "ver": "20160730.1"
     },
     {
       "id": "S8jfN66vYa0",
@@ -1497,10 +1497,10 @@
       "ver": "20160606.1"
     },
     {
-      "id": "NWOvbUB3yqE",
+      "id": "KbPnP8HvzlE",
       "title": "로봇 알포",
       "file": "robot_r4",
-      "ver": "20160612.1"
+      "ver": "20160730.1"
     }
   ]
 }

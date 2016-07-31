@@ -1,5 +1,5 @@
 {
-  "ver": "20160525.1",
+  "ver": "20160730.2",
   "list": [
     {
       "id": "aLfirw31BRU",
@@ -2908,7 +2908,7 @@
     {
       "id": "XhQ5XytknwY",
       "title": "키부머 동요",
-      "ver": "20160429.1",
+      "ver": "20160730.2",
       "list": [
         {
           "id": "XhQ5XytknwY",
@@ -3461,11 +3461,6 @@
           "duration": "1:26"
         },
         {
-          "id": "wAgZVLk6J4M",
-          "title": "The Cuppy Cake Song 2D Animation",
-          "duration": "0:57"
-        },
-        {
           "id": "MtN1YnoL46Q",
           "title": "The Duck Song",
           "duration": "3:12"
@@ -3937,7 +3932,7 @@
     {
       "id": "BqVt8BZxo60",
       "title": "후플라키즈 1",
-      "ver": "20160429.1",
+      "ver": "20160730.2",
       "list": [
         {
           "id": "BqVt8BZxo60",
@@ -4368,11 +4363,6 @@
           "id": "FlEv6JuLavs",
           "title": "Wee Willie Winkie",
           "duration": "2:10"
-        },
-        {
-          "id": "9QdzubQ5-sQ",
-          "title": "We're Going to the Zoo",
-          "duration": "2:43"
         },
         {
           "id": "PQSocz3bmZc",

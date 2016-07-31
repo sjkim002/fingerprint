@@ -1,5 +1,5 @@
 {
-  "ver": "20160525.1",
+  "ver": "20160730.1",
   "list": [
     {
       "id": "N3Ur6DLIEKU",
@@ -3654,7 +3654,7 @@
     {
       "id": "CVwGbj3x8f0",
       "title": "유아동요 07",
-      "ver": "20160429.1",
+      "ver": "20160730.1",
       "list": [
         {
           "id": "CVwGbj3x8f0",
@@ -3765,11 +3765,6 @@
           "id": "jyNOmLkD2AE",
           "title": "나비야",
           "duration": "0:44"
-        },
-        {
-          "id": "DG9NWNML67o",
-          "title": "나의 몸",
-          "duration": "1:04"
         },
         {
           "id": "IjxB94KQFyc",

@@ -1,407 +1,140 @@
 {
-  "ver": "20160501.1",
+  "ver": "20160730.1",
   "list": [
     {
-      "id": "iqEJNWnVLy8",
-      "title": "프랭키와 친구들 1",
-      "ver": "20160501.1",
+      "id": "V8O5jgcL-fM",
+      "title": "프랭키와 친구들",
+      "ver": "20160730.1",
       "list": [
         {
-          "id": "iqEJNWnVLy8",
-          "title": "삐로삐로 땐스",
-          "duration": "0:19"
-        },
-        {
-          "id": "c-vTInz_-eU",
-          "title": "팬아트 영상",
-          "duration": "1:49"
-        },
-        {
-          "id": "qOdlKxa3V4k",
-          "title": "프랭키와 친구들 오프닝",
-          "duration": "1:24"
-        },
-        {
-          "id": "hCdeI6DxVcg",
-          "title": "01화 딸기가 없어졌어요!",
-          "duration": "7:04"
-        },
-        {
-          "id": "RfFZ3GI_ozs",
-          "title": "01화 빨간 콩의 습격",
-          "duration": "7:26"
-        },
-        {
-          "id": "YOZk_LbY59I",
-          "title": "01화 쌀이 된 프랭키",
+          "id": "V8O5jgcL-fM",
+          "title": "01 - 쌀이 된 프랭키",
           "duration": "8:48"
         },
         {
-          "id": "dK77VVFmEZM",
-          "title": "02화 똑똑해지는 비법",
-          "duration": "7:23"
-        },
-        {
-          "id": "dgKjoqFuk-k",
-          "title": "02화 내가 먹었어!",
-          "duration": "7:32"
-        },
-        {
-          "id": "_6SlVa3zL4E",
-          "title": "02화 마법의 요리책",
-          "duration": "8:12"
-        },
-        {
-          "id": "E7p6Pprq9Jw",
-          "title": "03화 황금빛 마법 거름",
-          "duration": "7:51"
-        },
-        {
-          "id": "dacTdiq3XOc",
-          "title": "03화 밥 피자라구!",
-          "duration": "7:45"
-        },
-        {
-          "id": "asZTBqUI5i0",
-          "title": "03화 눈사람이 된 프랭키",
-          "duration": "6:58"
-        },
-        {
-          "id": "caQ5uZS20pI",
-          "title": "04화 손오공과 솜사탕",
-          "duration": "7:55"
-        },
-        {
-          "id": "neRA1SqcgkI",
-          "title": "04화 숲속에서 들리는 통통통!",
-          "duration": "7:47"
-        },
-        {
-          "id": "unyibwyPDeA",
-          "title": "04화 이게 다 콩 때문이야!",
-          "duration": "7:22"
-        },
-        {
-          "id": "RdgftE-Er2U",
-          "title": "05화 퐁의 움직이는 그림",
-          "duration": "8:21"
-        },
-        {
-          "id": "hTb3aUf2a-I",
-          "title": "05화 서커스가 보고 싶어",
-          "duration": "7:41"
-        },
-        {
-          "id": "GvEid3UeTrY",
-          "title": "06화 못 찾겠다 꾀꼬리",
-          "duration": "8:05"
-        },
-        {
-          "id": "FxID8yWB3qM",
-          "title": "06화 붕어빵이 좋아",
-          "duration": "7:07"
-        },
-        {
-          "id": "BSXf8Wcd4dw",
-          "title": "06화 피노키오야 울지마",
-          "duration": "7:43"
-        },
-        {
-          "id": "YRh_9LkygCg",
-          "title": "07화 화장실이 무서워",
-          "duration": "7:13"
-        },
-        {
-          "id": "8nw-FQC7XJs",
-          "title": "07화 벌꿀 소동",
-          "duration": "7:20"
-        },
-        {
-          "id": "NkbBfyqjtwk",
-          "title": "07화 토란 밭의 개구리왕자",
-          "duration": "7:39"
-        },
-        {
-          "id": "nAX-blvPC60",
-          "title": "08화 앗! 방귀가 뽕!",
-          "duration": "7:35"
-        },
-        {
-          "id": "NHRlJ8G0Lw0",
-          "title": "08화 열려라 호두과자",
-          "duration": "8:36"
-        },
-        {
-          "id": "jJI26nN5RyY",
-          "title": "08화 쿠키를 만들자",
-          "duration": "6:05"
-        },
-        {
-          "id": "ajYcw4D_2wY",
-          "title": "09화 봄비가 내려요~",
-          "duration": "6:46"
-        },
-        {
-          "id": "FqU7ujF0Ir0",
-          "title": "09화 초순이를 지켜라",
-          "duration": "7:53"
-        },
-        {
-          "id": "IvpV9dkzagA",
-          "title": "09화 물고기가 왔어요",
-          "duration": "7:14"
-        },
-        {
-          "id": "b3diLgA-NYc",
-          "title": "10화 피노키오의 맛있는 치즈",
-          "duration": "7:12"
-        },
-        {
-          "id": "Xdc2eIBpnZ0",
-          "title": "10화 키가 커지고 싶어",
-          "duration": "7:16"
-        },
-        {
-          "id": "qE3NzKICe3E",
-          "title": "10화 꽃 모자 소동",
-          "duration": "7:13"
-        },
-        {
-          "id": "_5Fai0QhtlE",
-          "title": "11화 너랑 말 안 해!",
-          "duration": "7:24"
-        },
-        {
-          "id": "r4_mNcMuQ4A",
-          "title": "11화 어른이 되고 싶어",
-          "duration": "7:57"
-        },
-        {
-          "id": "qzrEktJqjLw",
-          "title": "11화 보물을 찾아라!",
-          "duration": "7:56"
-        },
-        {
-          "id": "MDUZYtkqfVQ",
-          "title": "12화 뽕나무와 방귀벌레",
-          "duration": "7:15"
-        },
-        {
-          "id": "Ch2bp5PkI_I",
-          "title": "12화 못 참겠어, 토마토!",
-          "duration": "8:01"
-        },
-        {
-          "id": "3aBUIchhepA",
-          "title": "12화 민들레 씨를 불자",
-          "duration": "8:17"
-        },
-        {
-          "id": "g4uAg7wEY_U",
-          "title": "13화 청소요정 브라우니",
-          "duration": "7:05"
-        },
-        {
-          "id": "g339P78zzYc",
-          "title": "13화 프랭키 코가 없어졌어요",
-          "duration": "6:55"
-        },
-        {
-          "id": "ZMBno456pQ8",
-          "title": "13화 땅속에 사는 농부",
-          "duration": "7:41"
-        }
-      ]
-    },
-    {
-      "id": "hixuSviEI4I",
-      "title": "프랭키와 친구들 2",
-      "ver": "20160501.1",
-      "list": [
-        {
-          "id": "hixuSviEI4I",
-          "title": "14화 모기를 잡아줘 쿠앙",
-          "duration": "6:40"
-        },
-        {
-          "id": "4c2FMVGhcA4",
-          "title": "14화 우와 첫눈이다!",
-          "duration": "7:15"
-        },
-        {
-          "id": "RdbMRu_aqvw",
-          "title": "14화 크리스마스 선물",
-          "duration": "7:12"
-        },
-        {
-          "id": "x7NwbnZ9n0o",
-          "title": "15화 맛있는 떡볶이가 왔어요",
-          "duration": "7:06"
-        },
-        {
-          "id": "6nQxi-aWID8",
-          "title": "15화 신나는 춤을 춰요",
-          "duration": "7:09"
-        },
-        {
-          "id": "4PAZGNkTYds",
-          "title": "15화 누룩 꽃이 피었어요",
-          "duration": "8:57"
-        },
-        {
-          "id": "AvLKgCy2VrE",
-          "title": "16화 귀신 대 소동!",
-          "duration": "7:41"
-        },
-        {
-          "id": "vfr8TjN7guw",
-          "title": "16화 반지가 안빠져?",
-          "duration": "7:55"
-        },
-        {
-          "id": "Mgfz7K8p1B4",
-          "title": "16화 종이 비행기를 날리자",
-          "duration": "7:41"
-        },
-        {
-          "id": "r_fOYxvWgdQ",
-          "title": "17화 신데렐라와 아몬드",
-          "duration": "7:12"
-        },
-        {
-          "id": "NM7CO5zdaq0",
-          "title": "17화 내 스프링 의자",
-          "duration": "6:50"
-        },
-        {
-          "id": "FHjWHCxToq8",
-          "title": "17화 브로콜리와 빛의 요정",
-          "duration": "6:46"
-        },
-        {
-          "id": "b7Vcbw22qNE",
-          "title": "18화 우리가 키울 거야~",
-          "duration": "7:59"
-        },
-        {
-          "id": "0eIE-B6kZDQ",
-          "title": "18화 내 친구 티라노 1부",
-          "duration": "7:15"
-        },
-        {
-          "id": "4ZOFZ0diaXM",
-          "title": "18화 내 친구 티라노 2부",
-          "duration": "7:42"
-        },
-        {
-          "id": "jvorB_z4tG8",
-          "title": "19화 충치가 생겼어요!",
-          "duration": "6:55"
-        },
-        {
-          "id": "gOPFUGUGSDs",
-          "title": "19화 무지개는 어떤 맛일까?",
-          "duration": "7:30"
-        },
-        {
-          "id": "WGmLDglx0W0",
-          "title": "19화 내 피부를 부탁해!",
-          "duration": "7:53"
-        },
-        {
-          "id": "kWvQX5GcIvY",
-          "title": "20화 자꾸 생각나, 떡볶이!",
-          "duration": "7:13"
-        },
-        {
-          "id": "vO6imGZ9xlg",
-          "title": "20화 나만의 집을 만들자",
+          "id": "s_nwfIINePU",
+          "title": "02 - 토란 밭의 개구리왕자",
           "duration": "7:40"
         },
         {
-          "id": "KO80mqD3bdA",
-          "title": "21화 씻는건 너무 귀찮아",
-          "duration": "7:26"
+          "id": "nImIGT3e-q4",
+          "title": "03 - 꽃 모자 소동",
+          "duration": "7:13"
         },
         {
-          "id": "_PxR9af77lg",
-          "title": "21화 따끔따끔 밤송이",
-          "duration": "6:47"
+          "id": "mEmRBWMBmJQ",
+          "title": "04 - 민들레 씨를 불자",
+          "duration": "8:18"
         },
         {
-          "id": "3qD5TuydzGo",
-          "title": "22화 안녕, 허수아비야",
-          "duration": "7:52"
+          "id": "Rs6U3X2iZi8",
+          "title": "05 - 딸기가 없어졌어요!",
+          "duration": "7:05"
         },
         {
-          "id": "5rBGKJqislY",
-          "title": "22화 또 먹고 싶어, 누룽지!",
-          "duration": "7:45"
+          "id": "3BVUKkazh2s",
+          "title": "06 - 손오공과 솜사탕",
+          "duration": "7:55"
         },
         {
-          "id": "UgNGRrvwcrk",
-          "title": "22화 겨울에 피는 꽃",
-          "duration": "7:25"
+          "id": "KoJEMmo3US8",
+          "title": "07 - 우와 첫눈이다!",
+          "duration": "7:16"
         },
         {
-          "id": "F4hdrWb2Slo",
-          "title": "23화 리자를 처음 만난 날",
-          "duration": "6:49"
+          "id": "pdDb-YyKhSM",
+          "title": "08 - 크리스마스 선물",
+          "duration": "7:13"
         },
         {
-          "id": "TwW-G4GTmpc",
-          "title": "23화 뚜 카레라이스를 만들어 줘",
-          "duration": "8:11"
+          "id": "QLkohKMXJzg",
+          "title": "09 - 신데렐라와 아몬드",
+          "duration": "7:13"
         },
         {
-          "id": "jvB2uqgH70E",
-          "title": "23화 오리와 뚜",
-          "duration": "7:22"
+          "id": "pJCm1xJy9CE",
+          "title": "10 - 내 친구 티라노 1부",
+          "duration": "7:15"
         },
         {
-          "id": "-c9RpxvQSxk",
-          "title": "24화 돌아온 개구리 왕자",
-          "duration": "7:35"
+          "id": "vX_F2it2gHY",
+          "title": "11 - 내 친구 티라노 2부",
+          "duration": "7:43"
         },
         {
-          "id": "LTRCqDYBAmY",
-          "title": "24화 내 마음을 받아줘",
-          "duration": "7:32"
-        },
-        {
-          "id": "mkwCDCATvFg",
-          "title": "25화 봄을 배달하자",
-          "duration": "7:58"
-        },
-        {
-          "id": "50FgUDxNyEk",
-          "title": "25화 팥죽 만드는 날",
+          "id": "3D3LdvtRFa8",
+          "title": "12 - 똑똑해지는 비법",
           "duration": "7:23"
         },
         {
-          "id": "BgosSJBTEvA",
-          "title": "25화 군것질은 이제 그만",
-          "duration": "8:39"
+          "id": "tMdygyzAqcY",
+          "title": "13 - 빨간 콩의 습격",
+          "duration": "7:27"
         },
         {
-          "id": "ytfZTa8DZFI",
-          "title": "26화 대롱 대롱 대롱이",
-          "duration": "7:06"
+          "id": "aEl7wZtWDag",
+          "title": "14 - 벌꿀소동",
+          "duration": "7:21"
         },
         {
-          "id": "EOPOtbCYSeU",
-          "title": "26화 김치가 다 어디로 갔을까?",
-          "duration": "7:38"
+          "id": "f46SdMimuJc",
+          "title": "15 - 화장실이 무서워",
+          "duration": "7:13"
         },
         {
-          "id": "u0n_jW8JVXw",
-          "title": "26화 야채를 맛있게 먹는 법",
-          "duration": "8:34"
+          "id": "8FN3IaRb5ws",
+          "title": "16 - 우리가 키울 거야~",
+          "duration": "7:59"
         },
         {
-          "id": "lS2Ht7W3jkI",
-          "title": "프랭키와 친구들 엔딩",
-          "duration": "1:31"
+          "id": "MORKc7tYQ_E",
+          "title": "17 - 보물을 찾아라!",
+          "duration": "7:56"
+        },
+        {
+          "id": "qVIFZo-dI58",
+          "title": "18 - 내 피부를 부탁해!",
+          "duration": "7:54"
+        },
+        {
+          "id": "1d_qL7aEG-s",
+          "title": "19 - 이게 다 콩 때문이야!",
+          "duration": "7:23"
+        },
+        {
+          "id": "EOcQUUvTD90",
+          "title": "20 - 모기를 잡아줘 쿠앙",
+          "duration": "6:41"
+        },
+        {
+          "id": "DvjeCfHyijQ",
+          "title": "21 - 누룩 꽃이 피었어요",
+          "duration": "8:58"
+        },
+        {
+          "id": "_eCn-8ATfF8",
+          "title": "22 - 앗! 방귀가 뽕!",
+          "duration": "7:36"
+        },
+        {
+          "id": "coyWZfKKldg",
+          "title": "23 - 귀신 대 소동!",
+          "duration": "7:41"
+        },
+        {
+          "id": "U7pgTLezwzw",
+          "title": "24 - 퐁의 움직이는 그림",
+          "duration": "8:21"
+        },
+        {
+          "id": "EBaUPwqg8Ts",
+          "title": "25 - 브로콜리와 빛의 요정",
+          "duration": "6:46"
+        },
+        {
+          "id": "WoUf-xdlfHQ",
+          "title": "26 - 너랑 말 안 해!",
+          "duration": "7:25"
         }
       ]
     }
