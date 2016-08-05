@@ -1,282 +1,277 @@
 {
-  "ver": "20160501.1",
+  "ver": "20160805.1",
   "list": [
     {
-      "id": "y-xafOMCuAw",
+      "id": "CkV1tqkisaQ",
       "title": "달빛천사 [만월을 찾아서] 01-26",
-      "ver": "20160501.1",
+      "ver": "20160805.1",
       "list": [
         {
-          "id": "y-xafOMCuAw",
-          "title": "1화 그래도 노래하고 싶어",
+          "id": "CkV1tqkisaQ",
+          "title": "제1화   그래도 노래하고 싶어",
           "duration": "23:31"
         },
         {
-          "id": "rSd12ULSVlY",
-          "title": "2화 에이치와의 약속",
+          "id": "qGZRYlVFv_c",
+          "title": "제2화   에이치와의 약속",
           "duration": "21:33"
         },
         {
-          "id": "oWvjyaf175Q",
-          "title": "3화 매니저 소동",
+          "id": "91_ChpHTiug",
+          "title": "제3화   매니저 소동",
           "duration": "21:36"
         },
         {
-          "id": "0XMoK7Dudlw",
-          "title": "4화 마음을 담은 노래",
-          "duration": "21:39"
-        },
-        {
-          "id": "IcZlrg1D7U4",
-          "title": "5화 새로운 시작",
-          "duration": "21:35"
-        },
-        {
-          "id": "Nr-ki6e8g18",
-          "title": "6화 타토를 돌려줘!",
-          "duration": "21:35"
-        },
-        {
-          "id": "b1X_nbUcJ3U",
-          "title": "7화 풀문! 데뷔!",
-          "duration": "21:35"
-        },
-        {
-          "id": "F7TM3Z-lBZI",
-          "title": "8화 풀문 노래 어때?",
+          "id": "-H_hbZkJCUE",
+          "title": "제4화   마음을 담은 노래",
           "duration": "21:40"
         },
         {
-          "id": "h3lQ_ZlYo6Y",
-          "title": "9화 들려주고 싶은데...",
+          "id": "SqXSW_5-qPw",
+          "title": "제5화   새로운 시작",
           "duration": "21:35"
         },
         {
-          "id": "umM5BaCyyyY",
-          "title": "10화 연예계의 대선배",
-          "duration": "21:34"
-        },
-        {
-          "id": "dPJ7CgCjETQ",
-          "title": "11화 위험한 렌즈",
+          "id": "Fn09hWhV_lk",
+          "title": "제6화   타토를 돌려줘",
           "duration": "21:35"
         },
         {
-          "id": "7-95IOub3QI",
-          "title": "12화 대파라면과 성자의 돌",
+          "id": "faxA336hdic",
+          "title": "제7화   풀문 데뷔",
+          "duration": "21:35"
+        },
+        {
+          "id": "XGEOGXrPc74",
+          "title": "제8화   풀문 노래 어때？",
           "duration": "21:40"
         },
         {
-          "id": "Mn36cFavF5o",
-          "title": "13화 미니 콘서트",
+          "id": "diuFH6Gw9-4",
+          "title": "제9화   들려주고 싶은데",
           "duration": "21:35"
         },
         {
-          "id": "Nnr2w1nJ6Uk",
-          "title": "14화 임시 매니저 화이팅!",
+          "id": "2uE1nVtB7Ls",
+          "title": "제10화   연예계의 대선배",
           "duration": "21:35"
         },
         {
-          "id": "EjXaX2dxIzU",
-          "title": "15화 첫키스!?",
+          "id": "xt0N0jreMFc",
+          "title": "제11화   위험한 렌즈",
           "duration": "21:35"
         },
         {
-          "id": "G5DqKuGtuDs",
-          "title": "16화 라이벌 등장",
-          "duration": "21:39"
+          "id": "Fh7blros1W4",
+          "title": "제12화   대파라면과 성자의 돌",
+          "duration": "21:40"
         },
         {
-          "id": "n7QCDbCM9DU",
-          "title": "17화 엇갈리는 두사람",
+          "id": "gdv0weYgG4I",
+          "title": "제13화   미니콘서트",
+          "duration": "21:35"
+        },
+        {
+          "id": "uPsTx94QYAU",
+          "title": "제14화   임시 매니저 파이팅！",
+          "duration": "21:35"
+        },
+        {
+          "id": "uR2ER3FqDE0",
+          "title": "제15화   첫 키스？",
+          "duration": "21:35"
+        },
+        {
+          "id": "TiNIYrWxZ80",
+          "title": "제16화   라이벌 등장",
+          "duration": "21:40"
+        },
+        {
+          "id": "01pEPIHPTM4",
+          "title": "제17화   엇갈리는 두 사람",
           "duration": "21:34"
         },
         {
-          "id": "eIJWfWcSn0w",
-          "title": "18화 가자! 오디션장으로!",
+          "id": "b7u29COBGkw",
+          "title": "제18화   가자, 오디션장으로！",
           "duration": "21:34"
         },
         {
-          "id": "6qtF3eHueRA",
-          "title": "19화 들리지 않는 노래",
+          "id": "j42l90sPq4I",
+          "title": "제19화   들리지 않는 노래",
           "duration": "21:34"
         },
         {
-          "id": "Url3LrM_GQE",
-          "title": "20화 외톨이가 된 멜로니",
+          "id": "zaYHAQw25dk",
+          "title": "제20화   외톨이가 된 멜로니",
+          "duration": "21:35"
+        },
+        {
+          "id": "aSPmt2Ckhl8",
+          "title": "제21화   새로운 다짐",
           "duration": "21:34"
         },
         {
-          "id": "J7GZV4Ab1Xg",
-          "title": "21화 새로운 다짐",
+          "id": "2Q_gPvfAiA8",
+          "title": "제22화   설레는 첫 콘서트",
           "duration": "21:34"
         },
         {
-          "id": "DnkIFzJ-Wtg",
-          "title": "22화 설레는 첫 콘서트",
-          "duration": "21:33"
-        },
-        {
-          "id": "tUn5Xm14oaU",
-          "title": "23화 라이벌 등장",
+          "id": "s7gMq_ral7g",
+          "title": "제23화   강력한 라이벌？",
           "duration": "21:34"
         },
         {
-          "id": "_2Yea8uDXRM",
-          "title": "24화 아버지의 노래",
+          "id": "KTZyV8l8pfk",
+          "title": "제24화   아버지의 노래",
           "duration": "21:34"
         },
         {
-          "id": "TvjUGzUt3Ss",
-          "title": "25화 프리스선생님 부탁해요",
-          "duration": "21:34"
+          "id": "bUwh01eNLs8",
+          "title": "제25화   프리스 선생님, 부탁해요",
+          "duration": "21:35"
         },
         {
-          "id": "vWkXaLHA45A",
-          "title": "26화 전하고 싶은것",
+          "id": "aggS9K0MeA4",
+          "title": "제26화   전하고 싶은 것",
           "duration": "21:35"
         }
       ]
     },
     {
-      "id": "upzrgmOH5GE",
+      "id": "HQ5alyjkmNU",
       "title": "달빛천사 [만월을 찾아서] 27-52",
-      "ver": "20160501.1",
+      "ver": "20160805.1",
       "list": [
         {
-          "id": "upzrgmOH5GE",
-          "title": "27화 절대 포기하지 않아",
+          "id": "HQ5alyjkmNU",
+          "title": "제27화   절대로 지지 않아！",
           "duration": "21:35"
         },
         {
-          "id": "BUDXZzER0Ow",
-          "title": "28화 루나는 연애박사",
-          "duration": "21:39"
+          "id": "lzx5-q9IErE",
+          "title": "제28화   루나는 연애박사？",
+          "duration": "21:40"
         },
         {
-          "id": "MyTcu54vJ_8",
-          "title": "29화 새로운 저승사자 이즈미와 조나단",
+          "id": "VI1Mp3quyU0",
+          "title": "제29화   새로운 저승사자 이즈미와 조나단",
           "duration": "21:35"
         },
         {
-          "id": "8YrXVCICtYU",
-          "title": "30화 미국에서 온 손님",
+          "id": "vpeJRGfSBU8",
+          "title": "제30화   미국에서 온 손님",
           "duration": "21:35"
         },
         {
-          "id": "YkTuywKFiAA",
-          "title": "31화 대학에 간 풀문",
+          "id": "gQh0JHn3cAc",
+          "title": "제31화   대학에 간 풀문",
           "duration": "21:35"
         },
         {
-          "id": "LSyvP-xcdqw",
-          "title": "32화 마도카의 눈물",
-          "duration": "21:39"
+          "id": "vp0rJYaCiB4",
+          "title": "제32화   마도카의 눈물",
+          "duration": "21:40"
         },
         {
-          "id": "OQtfIlJOJ_A",
-          "title": "33화 소리없이 다가온 병마",
+          "id": "z9iZ4GHKNHQ",
+          "title": "제33화   소리 없이 다가온 병마",
           "duration": "21:35"
         },
         {
-          "id": "Cio8SpOAG_E",
-          "title": "34화 그네위의 노인",
+          "id": "u99DOOusscM",
+          "title": "제34화   그네 위의 노인",
           "duration": "21:35"
         },
         {
-          "id": "wNFJ9t1BHmI",
-          "title": "35화 에이치에게서 온 메일",
+          "id": "KdPMbxadebU",
+          "title": "제35화   에이치에게서 온 메일？",
           "duration": "21:35"
         },
         {
-          "id": "7-r3SNw4Yec",
-          "title": "36화 운명의 신인상",
-          "duration": "21:39"
+          "id": "3494SVrJvP8",
+          "title": "제36화   운명의 신인상",
+          "duration": "21:40"
         },
         {
-          "id": "9ULo7FpF3DU",
-          "title": "37화 크리스마스 선물",
+          "id": "FtjDNNazsj8",
+          "title": "제37화   크리스마스 선물",
           "duration": "21:35"
         },
         {
-          "id": "gFr3nNd1iXU",
-          "title": "38화 할머니의 과거",
+          "id": "zzpfd0iYS7A",
+          "title": "제38화   할머니의 과거",
           "duration": "21:35"
         },
         {
-          "id": "7FKihjFYftA",
-          "title": "39화 태평양을 건너서",
+          "id": "daQNEaxY-VM",
+          "title": "제39화   태평양을 건너서",
           "duration": "21:35"
         },
         {
-          "id": "R94Uo1qyiXo",
-          "title": "40화 도둑맞은 목걸이",
-          "duration": "21:39"
+          "id": "F5KeL4ET2fs",
+          "title": "제40화   도둑맞은 목걸이",
+          "duration": "21:40"
         },
         {
-          "id": "vv3av1tKNz8",
-          "title": "41화 에이치가 있는 곳으로",
+          "id": "ESbBZmbnrE0",
+          "title": "제41화   에이치가 있는 곳으로",
           "duration": "21:35"
         },
         {
-          "id": "hvH825xxhzU",
-          "title": "42화 이터널 스노우",
+          "id": "igoKwTE6zZM",
+          "title": "제42화   ETERNAL SNOW",
           "duration": "23:36"
         },
         {
-          "id": "l6kbuJpXb6w",
-          "title": "43화 더이상 노래를 하지 않아!",
+          "id": "PZssZsRIA7w",
+          "title": "제43화   이제 다시는 노래하지 않아",
           "duration": "22:05"
         },
         {
-          "id": "YlBaadj8oDg",
-          "title": "44화 되살아난 기억",
+          "id": "fAmkBNxtlQ4",
+          "title": "제44화   되살아나는 기억",
           "duration": "22:10"
         },
         {
-          "id": "IYS-_VzQIR0",
-          "title": "45화 이즈미의 유혹",
+          "id": "aghddF-MQrY",
+          "title": "제45화   이즈미의 유혹",
           "duration": "22:05"
         },
         {
-          "id": "f_M-07nNN2M",
-          "title": "46화 보이지않는 달!",
+          "id": "bc-Fmcnbs8A",
+          "title": "제46화   달이 보이지 않는 밤",
           "duration": "22:05"
         },
         {
-          "id": "lqdgn2mM0IU",
-          "title": "47화 살아가는 희망",
+          "id": "bXEANrF9cPc",
+          "title": "제47화   살아가는 희망",
           "duration": "22:05"
         },
         {
-          "id": "Uwjefqtfzgk",
-          "title": "48화 변신이 되질 않아",
-          "duration": "22:09"
+          "id": "crtXNfbFaGk",
+          "title": "제48화   변신이 되지 않아",
+          "duration": "22:10"
         },
         {
-          "id": "4GuCC4dgZwM",
-          "title": "49화 루나의 마음, 멜로니의 마음",
+          "id": "NKYxwMEKzeI",
+          "title": "제49화   루나의 마음,멜로니의 마음",
           "duration": "22:05"
         },
         {
-          "id": "tfFJAkYsgEg",
-          "title": "50화 말할 수 없어",
+          "id": "xepliUaS2rQ",
+          "title": "제50화   말할 수 없어",
           "duration": "22:05"
         },
         {
-          "id": "TPBYWjImVQk",
-          "title": "51화 운명의 날",
+          "id": "fD6KkcToWbY",
+          "title": "제51화   운명의 날",
           "duration": "22:05"
         },
         {
-          "id": "WCxaFu6f8Ys",
-          "title": "52화 풀문을 찾아서",
-          "duration": "21:39"
-        },
-        {
-          "id": "GKQRSN_KDcA",
-          "title": "달빛천사 OST 모음",
-          "duration": "24:48"
+          "id": "tOySTMXMWgw",
+          "title": "제52화   풀문을 찾아서",
+          "duration": "21:40"
         }
       ]
     }

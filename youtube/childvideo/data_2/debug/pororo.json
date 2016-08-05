@@ -1,5 +1,5 @@
 {
-  "ver": "20160716.1",
+  "ver": "20160805.1",
   "list": [
     {
       "id": "QQyYCAvkOXY",
@@ -1132,99 +1132,169 @@
       ]
     },
     {
-      "id": "r1NoxtNVDoQ",
+      "id": "WiqGq9zu_1g",
       "title": "뽀로로 테마극장",
-      "ver": "20160429.1",
+      "ver": "20160805.1",
       "list": [
         {
-          "id": "r1NoxtNVDoQ",
-          "title": "좋아해 ♥ 사랑해",
-          "duration": "13:40"
+          "id": "WiqGq9zu_1g",
+          "title": "#29 아이 무서워!  (15분)",
+          "duration": "15:08"
         },
         {
-          "id": "z1kgUHlLlvo",
-          "title": "마법에 걸렸어요",
-          "duration": "25:10"
+          "id": "QFwixKJzW7w",
+          "title": "#28 작아졌다! 커졌다!  (15분)",
+          "duration": "16:05"
         },
         {
-          "id": "Ad8v9ZDbeCo",
-          "title": "똑똑박사 에디의 발명품",
+          "id": "QpSVDIvXBRo",
+          "title": "#27 그건 오해야! (20분)",
+          "duration": "21:07"
+        },
+        {
+          "id": "HsxoSaziv7o",
+          "title": "#26 와~여름이다! (20분)",
+          "duration": "21:07"
+        },
+        {
+          "id": "uiycJPA_dmU",
+          "title": "#25 출동, 슈퍼히어로! (20분)",
+          "duration": "21:07"
+        },
+        {
+          "id": "_QMernTlmu8",
+          "title": "#24 우쭈쭈 우쭈쭈 (15분)",
+          "duration": "15:08"
+        },
+        {
+          "id": "P8c4aboExqs",
+          "title": "#23 위기의 뽀로로 (15분)",
+          "duration": "15:11"
+        },
+        {
+          "id": "9qU3baUVO4A",
+          "title": "#22 패티의 요리 (15분)",
+          "duration": "15:09"
+        },
+        {
+          "id": "6goA13Bzhu4",
+          "title": "#21 잠이 안와요 (15분)",
+          "duration": "15:07"
+        },
+        {
+          "id": "Sx2DvVNRGrs",
+          "title": "#20 루피의 인형 (15분)",
+          "duration": "15:09"
+        },
+        {
+          "id": "2OeqYLDBksE",
+          "title": "#19 뽀로로랑 놀아요 (15분)",
+          "duration": "15:08"
+        },
+        {
+          "id": "LsNV2sVNFlM",
+          "title": "#18 사이좋게 나눠 먹어요 (15분)",
+          "duration": "15:09"
+        },
+        {
+          "id": "SpXVf7sy9Ww",
+          "title": "#17 상어떼가 나올라! (20분)",
+          "duration": "20:15"
+        },
+        {
+          "id": "lNay3FMx3jw",
+          "title": "#16 어느 별에서 왔니 (20분)",
+          "duration": "20:11"
+        },
+        {
+          "id": "28fzrakArYc",
+          "title": "#15 토닥토닥 (20분)",
           "duration": "20:10"
-        },
-        {
-          "id": "gojzWgoa_gY",
-          "title": "낙서는 즐거워",
-          "duration": "25:12"
-        },
-        {
-          "id": "qLloeksKV-8",
-          "title": "신나게 뛰어 놀아요",
-          "duration": "20:08"
-        },
-        {
-          "id": "Vx8jrFZTT3M",
-          "title": "곰곰곰곰~ 곰이 왔어요!",
-          "duration": "20:10"
-        },
-        {
-          "id": "W7w4gGwBNQQ",
-          "title": "크롱? 크롱!",
-          "duration": "30:12"
-        },
-        {
-          "id": "SL61rnIujio",
-          "title": "별별 이야기",
-          "duration": "19:22"
-        },
-        {
-          "id": "T65bFdvUCzs",
-          "title": "네가 최고야",
-          "duration": "25:11"
         },
         {
           "id": "Wyg7ezZspr0",
-          "title": "참 잘했어요",
+          "title": "#14 참 잘했어요 (20분)",
           "duration": "20:09"
         },
         {
-          "id": "MqAMOU2LIgw",
-          "title": "뽀로로의 설날 대소동",
-          "duration": "15:13"
+          "id": "T65bFdvUCzs",
+          "title": "#13 네가 최고야 (25분)",
+          "duration": "25:12"
         },
         {
-          "id": "zWaGZiGBjdk",
-          "title": "뽀로로가 좋아하는 장난감",
-          "duration": "25:10"
+          "id": "vjSOf9ivTuo",
+          "title": "#12 신기방기 장난감 (15분)",
+          "duration": "14:29"
         },
         {
-          "id": "XTd1DcwOwm8",
-          "title": "아야야 친구가 아파요",
-          "duration": "25:11"
+          "id": "SL61rnIujio",
+          "title": "#11 별별 이야기 (15분)",
+          "duration": "19:22"
         },
         {
           "id": "mK-GufiRNLA",
-          "title": "뽀로로의 하루",
-          "duration": "4:37"
+          "title": "[뽀로로 스페셜] 뽀로로의 하루",
+          "duration": "4:38"
         },
         {
-          "id": "ahBPelZErPg",
-          "title": "오늘 뭐하지? - 겨울아 놀자!",
-          "duration": "29:00"
+          "id": "W7w4gGwBNQQ",
+          "title": "#10 크롱? 크롱! (30분)",
+          "duration": "30:12"
         },
         {
-          "id": "-Rz88UZZA_w",
-          "title": "오늘 뭐하지? - 타요와 한판승부!",
-          "duration": "23:25"
+          "id": "Vx8jrFZTT3M",
+          "title": "#09 곰곰곰곰~ 곰이 왔어요! (20분)",
+          "duration": "20:11"
         },
         {
-          "id": "aPdLT-hV1HU",
-          "title": "오늘 뭐하지? - 우당탕탕 놀이터",
-          "duration": "22:44"
+          "id": "gojzWgoa_gY",
+          "title": "#07 낙서는 즐거워 (25분)",
+          "duration": "25:13"
+        },
+        {
+          "id": "Ad8v9ZDbeCo",
+          "title": "#06 똑똑박사 에디의 발명품 (20분)",
+          "duration": "20:10"
+        },
+        {
+          "id": "z1kgUHlLlvo",
+          "title": "#05 마법에 걸렸어요 (25분)",
+          "duration": "25:10"
+        },
+        {
+          "id": "NtUWYCkO-jc",
+          "title": "[타요 테마극장] #04 타요의 친구를 소개합니다 (55분)",
+          "duration": "55:03"
+        },
+        {
+          "id": "4_vrYKEPv9E",
+          "title": "#03 공주님이 좋아요! (25분)",
+          "duration": "25:11"
+        },
+        {
+          "id": "XTd1DcwOwm8",
+          "title": "#02 아야야 친구가 아파요 (25분)",
+          "duration": "25:12"
+        },
+        {
+          "id": "zWaGZiGBjdk",
+          "title": "#01 뽀로로가 좋아하는 장난감 (25분)",
+          "duration": "25:10"
         },
         {
           "id": "by43T1YhSCM",
-          "title": "2015 뽀로로TV 어워드!",
-          "duration": "28:54"
+          "title": "[뽀로로TV] 2015 뽀로로TV 어워드!",
+          "duration": "28:55"
+        },
+        {
+          "id": "r1NoxtNVDoQ",
+          "title": "[뽀로로 스페셜] 좋아해 ♥ 사랑해",
+          "duration": "13:41"
+        },
+        {
+          "id": "MqAMOU2LIgw",
+          "title": "[2016년 설특집] 뽀로로의 설날 대소동",
+          "duration": "15:13"
         }
       ]
     },
