@@ -1,5 +1,5 @@
 {
-  "ver": "20160430.1",
+  "ver": "20160817.1",
   "list": [
     {
       "id": "DI9hDdmxTT8",
@@ -110,83 +110,6 @@
           "id": "TcdMzB0y0Dg",
           "title": "EP50 Jangan Menaruh Barang Sembarangan",
           "duration": "10:00"
-        }
-      ]
-    },
-    {
-      "id": "YlzYb_HL_hw",
-      "title": "Flim Kartun Anak Anak Pilihan",
-      "ver": "20160429.1",
-      "list": [
-        {
-          "id": "YlzYb_HL_hw",
-          "title": "Cerita Rakyat Timun Mas",
-          "duration": "52:29"
-        },
-        {
-          "id": "mSBVpuCXmrU",
-          "title": "Petualangan Kancil Keledai dan Katak",
-          "duration": "23:18"
-        },
-        {
-          "id": "SGK6rwY6hKI",
-          "title": "Si Kancil dan Rubah Yang Serakah",
-          "duration": "31:55"
-        },
-        {
-          "id": "XFWqPiB50hk",
-          "title": "Petualangan Si Kancil Si Cerdik",
-          "duration": "35:25"
-        },
-        {
-          "id": "rp9FkbECEhs",
-          "title": "Mengapa Pungguk Rindukan Bulan",
-          "duration": "20:13"
-        },
-        {
-          "id": "in1uk7ogT3M",
-          "title": "Kisah Petualangan Kancil Dan Kura Kura",
-          "duration": "38:30"
-        },
-        {
-          "id": "yhowyT7xeb0",
-          "title": "Kisah Yaganduran Yang Pemberani",
-          "duration": "21:20"
-        },
-        {
-          "id": "wduE3Nz3wMI",
-          "title": "Kisah Si Pembuat Tembikar",
-          "duration": "21:08"
-        },
-        {
-          "id": "WR64WLBPKv8",
-          "title": "Kisah Si Luncai",
-          "duration": "21:13"
-        },
-        {
-          "id": "lzJPgUksy2A",
-          "title": "Kisah Si Awang Kenit Terlahir di Buah Kelapa",
-          "duration": "21:18"
-        },
-        {
-          "id": "HHHQZ4jwTIM",
-          "title": "Petualangan Si Kancil Serigala Bayangan & Tanduk Yang Patah",
-          "duration": "11:59"
-        },
-        {
-          "id": "aFwt1ga1dwU",
-          "title": "Petualangan Si Kancil Rubah Unta dan Keledai Katak",
-          "duration": "11:10"
-        },
-        {
-          "id": "MoTRs4cSuXY",
-          "title": "Dongeng Palu Ajaib",
-          "duration": "21:19"
-        },
-        {
-          "id": "qcZTbG8mqOQ",
-          "title": "Cerita Rakyat Keong Mas dan Timun Mas",
-          "duration": "20:22"
         }
       ]
     },
