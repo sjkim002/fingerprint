@@ -1,5 +1,5 @@
 {
-  "ver": "20160817.1",
+  "ver": "20160820.1",
   "list": [
     {
       "id": "tdLeW41jdBo",
@@ -33,10 +33,10 @@
       "ver": "20160429.1"
     },
     {
-      "id": "O4pv1VpGPbM",
+      "id": "qXsRxLkWCGc",
       "title": "헬로카봇",
       "file": "hello_carbot",
-      "ver": "20160310.1"
+      "ver": "20160820.2"
     },
     {
       "id": "j2x_l4AqHZg",
@@ -993,12 +993,6 @@
       "ver": "20160501.1"
     },
     {
-      "id": "CkV1tqkisaQ",
-      "title": "달빛천사",
-      "file": "moonlight_angel",
-      "ver": "20160817.1"
-    },
-    {
       "id": "iENPxwIfSrA",
       "title": "뚜루뚜루뚜 나롱이",
       "file": "tturu_tturu_tous_narongyi",
@@ -1428,7 +1422,7 @@
       "id": "CkV1tqkisaQ",
       "title": "달빛천사 [만월을 찾아서]",
       "file": "moonlight_angel_find_the_full_moon",
-      "ver": "20160805.1"
+      "ver": "20160820.2"
     },
     {
       "id": "sdvspsYeSqg",
