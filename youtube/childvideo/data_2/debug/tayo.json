@@ -1,5 +1,5 @@
 {
-  "ver": "20160601.1",
+  "ver": "20160821.1",
   "list": [
     {
       "id": "NQRVyY5m3nM",
@@ -145,6 +145,143 @@
           "id": "QTzPGcd2Yfg",
           "duration": "1:14",
           "title": "엔딩"
+        }
+      ]
+    },
+    {
+      "id": "OReMeQ6RMmg",
+      "title": "꼬마버스타요 2기",
+      "ver": "20160821.1",
+      "list": [
+        {
+          "id": "OReMeQ6RMmg",
+          "title": "1화 타요와 봉봉",
+          "duration": "11:15"
+        },
+        {
+          "id": "SVl26__qZwM",
+          "title": "2화 명콤비 루키와 패트",
+          "duration": "11:15"
+        },
+        {
+          "id": "BLpATPbIoEs",
+          "title": "3화 선생님이 된 가니",
+          "duration": "11:15"
+        },
+        {
+          "id": "ZsDI7WvBXJY",
+          "title": "4화 내가 도와줄게, 빅!",
+          "duration": "11:15"
+        },
+        {
+          "id": "xZ1FNrVGDxY",
+          "title": "5화 나랑 같이 가자",
+          "duration": "11:15"
+        },
+        {
+          "id": "S0pygssTiEc",
+          "title": "6화 놀이터가 생겼어요!",
+          "duration": "11:15"
+        },
+        {
+          "id": "Pmn5qR7DaFQ",
+          "title": "7화 나나의 도시구경",
+          "duration": "11:15"
+        },
+        {
+          "id": "DWqC4VjAZqw",
+          "title": "8화 누리의 최악의 하루!",
+          "duration": "11:15"
+        },
+        {
+          "id": "7ZTtLva6Je8",
+          "title": "9화 보물은 내 거야",
+          "duration": "11:18"
+        },
+        {
+          "id": "dNVk2CTgIY0",
+          "title": "10화 명탐정 로기",
+          "duration": "11:15"
+        },
+        {
+          "id": "lRLXjUKPAik",
+          "title": "11화 로기의 특별한 손님",
+          "duration": "11:15"
+        },
+        {
+          "id": "H9hNNEafb00",
+          "title": "12화 놀이터 반장을 뽑아요!",
+          "duration": "11:15"
+        },
+        {
+          "id": "qSo2uNUCBdo",
+          "title": "13화 씨투의 비밀",
+          "duration": "11:15"
+        },
+        {
+          "id": "lIyjIhO2Uf8",
+          "title": "14화 공주님이 되고 싶어요",
+          "duration": "11:15"
+        },
+        {
+          "id": "NXE9_OiGLNk",
+          "title": "15화 어른이 되고 싶어요",
+          "duration": "11:15"
+        },
+        {
+          "id": "tZdqAOZ4XDY",
+          "title": "16화 타요가 작아졌어요",
+          "duration": "11:15"
+        },
+        {
+          "id": "BAcUVCLNW4w",
+          "title": "17화 타요의 우주 대모험 1",
+          "duration": "11:15"
+        },
+        {
+          "id": "gmVPvvzcma4",
+          "title": "18화 타요의 우주 대모험 2",
+          "duration": "11:15"
+        },
+        {
+          "id": "SXRkzioVN3E",
+          "title": "19화 착한 일은 너무 힘들어",
+          "duration": "11:15"
+        },
+        {
+          "id": "-yf39-3eGSw",
+          "title": "20화 가니의 선물",
+          "duration": "11:15"
+        },
+        {
+          "id": "0PbNc6H6kX4",
+          "title": "21화 용감한 헬리콥터 에어",
+          "duration": "11:15"
+        },
+        {
+          "id": "egEftz7Q6_M",
+          "title": "22화 장난 전화 대소동",
+          "duration": "11:15"
+        },
+        {
+          "id": "5mIW1Nfk7Bc",
+          "title": "23화 한밤의 유령소동",
+          "duration": "11:15"
+        },
+        {
+          "id": "UVQWLLby41k",
+          "title": "24화 나나의 초대",
+          "duration": "11:15"
+        },
+        {
+          "id": "je9JhDUgprM",
+          "title": "25화 첫눈이 내려요",
+          "duration": "11:15"
+        },
+        {
+          "id": "-PeOd4fnhoM",
+          "title": "26화 하나의 특별한 하루",
+          "duration": "11:15"
         }
       ]
     },
@@ -1479,6 +1616,44 @@
         }
       ]
     },
+    {
+      "id": "NvQJPASPn5M",
+      "title": "타요 캐릭터 이야기(ENG)",
+      "ver": "20160821.1",
+      "list": [
+        {
+          "id": "NvQJPASPn5M",
+          "title": "E01 The Little Bus Circus Team",
+          "duration": "4:22"
+        },
+        {
+          "id": "iJU6RzedcEc",
+          "title": "E02 It's dangerous, Speed",
+          "duration": "3:38"
+        },
+        {
+          "id": "fuucBS9q0Dc",
+          "title": "E03 I Have a Dog",
+          "duration": "3:45"
+        },
+        {
+          "id": "nmZMsF1kVGU",
+          "title": "E04 Cleaning is Hard",
+          "duration": "4:11"
+        },
+        {
+          "id": "wVAOKAANo70",
+          "title": "E05 Happy Heavy Equipment",
+          "duration": "3:46"
+        },
+        {
+          "id": "4INvfPsO4EY",
+          "title": "E06 The Magical Snowman",
+          "duration": "4:17"
+        }
+      ]
+    },
+
     {
       "id": "W8jpU3J0uUc",
       "title": "타요 챈트송(ENG)",
