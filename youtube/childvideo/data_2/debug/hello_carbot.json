@@ -159,59 +159,246 @@
       ]
     },
     {
-      "id": "O4pv1VpGPbM",
-      "title": "헬로카봇 시즌2",
-      "ver":"20160310.1",
+      "id": "WAeNodRLHvw",
+      "title": "헬로카봇 시즌2(Full HD)",
+      "ver": "20160820.1",
       "list": [
         {
-          "id": "O4pv1VpGPbM",
-          "duration": "2:39",
-          "title": "New 오프닝"
+          "id": "WAeNodRLHvw",
+          "title": "오프닝 (hello carbot 2 opening)",
+          "duration": "1:31"
         },
         {
-          "id": "WAeNodRLHvw",
-          "duration": "1:31",
-          "title": "오프닝"
+          "id": "O4pv1VpGPbM",
+          "title": "New 오프닝 (hello carbot 2 opening)",
+          "duration": "2:39"
         },
         {
           "id": "DphNu0On2fY",
-          "duration": "11:01",
-          "title": "1화 불꽃놀이 소동"
+          "title": "1화 불꽃놀이 소동 (hello carbot 2 EP01)",
+          "duration": "11:01"
         },
         {
           "id": "xF9_MDgp244",
-          "duration": "12:08",
-          "title": "2화 바둑이의 첫사랑"
+          "title": "2화 바둑이의 첫사랑 (hello carbot 2 EP02)",
+          "duration": "12:08"
         },
         {
           "id": "EhYBXEUgSP0",
-          "duration": "12:08",
-          "title": "3화 초콜릿 대소동"
+          "title": "3화 초콜릿 대소동 (hello carbot 2 EP03)",
+          "duration": "12:08"
         },
         {
           "id": "bUbMY_jj4EM",
-          "duration": "12:08",
-          "title": "4화 도깨비불 소동"
+          "title": "4화 도깨비불 소동 (hello carbot 2 EP04)",
+          "duration": "12:08"
         },
         {
           "id": "FYr6EjeM8ZI",
-          "duration": "12:08",
-          "title": "5화 여우를 구해줘"
+          "title": "5화 여우를 구해줘 (hello carbot 2 EP05)",
+          "duration": "12:08"
         },
         {
           "id": "K3PwCFNX364",
-          "duration": "12:08",
-          "title": "6화 장난감 로봇을 찾아라"
+          "title": "6화 장난감 로봇을 찾아라 (hello carbot 2 EP06)",
+          "duration": "12:08"
         },
         {
           "id": "tfcQYT8sS-s",
-          "duration": "12:08",
-          "title": "7화 잃어버린 호크의 기억"
+          "title": "7화 잃어버린 호크의 기억 (hello carbot 2 EP07)",
+          "duration": "12:08"
         },
         {
           "id": "vciTlQYIVXY",
-          "duration": "12:08",
-          "title": "8화 오싹오싹 동굴의 비밀"
+          "title": "8화 오싹오싹 동굴의 비밀 (hello carbot 2 EP08)",
+          "duration": "12:08"
+        },
+        {
+          "id": "EQ0r4Noikcg",
+          "title": "9화 매미 울음소리 (hello carbot 2 EP09)",
+          "duration": "12:08"
+        },
+        {
+          "id": "Vp4E8tTCEHc",
+          "title": "10화 비 오는 날 생긴 일 (hello carbot 2 EP10)",
+          "duration": "11:33"
+        },
+        {
+          "id": "Kj2efPARhd8",
+          "title": "11화 우주 해적을 막아라 (hello carbot 2 EP11)",
+          "duration": "13:22"
+        },
+        {
+          "id": "AImrM9OunwA",
+          "title": "12화 아기 돌보기는 어려워 (hello carbot 2 EP12)",
+          "duration": "13:28"
+        },
+        {
+          "id": "iCUtrixZ_Q0",
+          "title": "13화 바람아 멈춰라 (hello carbot 2 EP13)",
+          "duration": "13:28"
+        },
+        {
+          "id": "rKWomkzbHMY",
+          "title": "14화 파리 로봇과의 대결 (hello carbot 2 EP14)",
+          "duration": "13:28"
+        },
+        {
+          "id": "vijVspTUMVI",
+          "title": "15화 소풍가서 생긴 일 (hello carbot 2 EP15)",
+          "duration": "13:28"
+        },
+        {
+          "id": "wovO6Y7F9bc",
+          "title": "16화 섬마을에서 생긴일 (hello carbot 2 EP16)",
+          "duration": "13:29"
+        },
+        {
+          "id": "LiIEfdxi-k0",
+          "title": "17화 축구장이 필요해 (hello carbot 2 EP17)",
+          "duration": "12:58"
+        },
+        {
+          "id": "PZXfXMuWjg4",
+          "title": "18화 목장에서 생긴 일  (hello carbot 2 EP18)",
+          "duration": "13:28"
+        },
+        {
+          "id": "qWu8onrOvnw",
+          "title": "19화 마이스터 카봇캠프 (hello carbot 2 EP19)",
+          "duration": "13:28"
+        },
+        {
+          "id": "HToD-xvsWJc",
+          "title": "20화 로드세이버의 탄생(hello carbot 2 EP20)",
+          "duration": "13:32"
+        },
+        {
+          "id": "PeXXgcG5hP0",
+          "title": "21화 마술을 보여줘(hello carbot 2 EP21)",
+          "duration": "13:28"
+        },
+        {
+          "id": "aEd4l4OF_lY",
+          "title": "22화 사인을 받아라 (hello carbot 2 EP22)",
+          "duration": "12:58"
+        },
+        {
+          "id": "OpDw6RC2I3M",
+          "title": "23화 식충식물을 막아라 (hello carbot 2 EP23)",
+          "duration": "13:28"
+        },
+        {
+          "id": "C5EDdaIW-Z4",
+          "title": "24화 마니또 카봇 (hello carbot 2 EP24)",
+          "duration": "13:16"
+        },
+        {
+          "id": "ULbQBZNexqk",
+          "title": "25화 우주해적의 습격1 (hello carbot 2 EP25)",
+          "duration": "13:15"
+        },
+        {
+          "id": "q6lLwfOGpEM",
+          "title": "26화 우주해적의 습격2 (hello carbot 2 EP26)",
+          "duration": "13:17"
+        }
+      ]
+    }
+    {
+      "id": "qQ2UUsIXvC4",
+      "title": "헬로카봇 시즌3(Full HD)",
+      "ver": "20160820.1",
+      "list": [
+        {
+          "id": "qQ2UUsIXvC4",
+          "title": "오프닝 자막버전 (hello carbot 3 opening)",
+          "duration": "2:49"
+        },
+        {
+          "id": "So9v5N_GIHU",
+          "title": "NEW 오프닝 자막버전 (hello carbot 3 opening)",
+          "duration": "1:47"
+        },
+        {
+          "id": "NrcvgCwPupw",
+          "title": "1화 바다를 구해줘! (hello carbot 3 EP01)",
+          "duration": "12:56"
+        },
+        {
+          "id": "Q-uyFpsk-dk",
+          "title": "2화 보물을 찾아라 (hello carbot 3 EP02)",
+          "duration": "12:57"
+        },
+        {
+          "id": "TbamCJMU4x8",
+          "title": "3화 양말도 한 짝 신발도 한 짝 (hello carbot 3 EP03)",
+          "duration": "12:52"
+        },
+        {
+          "id": "IOooNFvYkSg",
+          "title": "4화 산불을 막아라 (hello carbot 3 EP04)",
+          "duration": "12:52"
+        },
+        {
+          "id": "_nd4m4opk0M",
+          "title": "5화 선생님의 소개팅 (hello carbot 3 EP05)",
+          "duration": "12:53"
+        },
+        {
+          "id": "OI6gENByarE",
+          "title": "6화 노파라 빌딩을 구해줘 (hello carbot 3 EP06)",
+          "duration": "12:52"
+        },
+        {
+          "id": "WRo2Po8Wjyg",
+          "title": "7화 장난꾸러기 우가바 (hello carbot 3 EP07)",
+          "duration": "13:12"
+        },
+        {
+          "id": "tPfmel-8h6o",
+          "title": "8화 불량식품을 없애줘 (hello carbot 3 EP08)",
+          "duration": "13:13"
+        },
+        {
+          "id": "p_iEbzI0WWs",
+          "title": "9화 달려라 천둥 (hello carbot 3 EP09)",
+          "duration": "13:12"
+        },
+        {
+          "id": "3zhoYLfLBTk",
+          "title": "10화 K-캅스의 등장 (hello carbot 3 EP10)",
+          "duration": "13:11"
+        },
+        {
+          "id": "EX7FiM-nytY",
+          "title": "11화 카봇 아르바이트 (hello carbot 3 EP11)",
+          "duration": "13:13"
+        },
+        {
+          "id": "8bV6UQtuZbs",
+          "title": "12화 강아지를 찾아줘 (hello carbot 3 EP12)",
+          "duration": "12:53"
+        },
+        {
+          "id": "cQ5nLc2Jd-Q",
+          "title": "13화 달에서 생긴 일 (hello carbot 3 EP13)",
+          "duration": "12:54"
+        },
+        {
+          "id": "duMROERWHVk",
+          "title": "14화 가뭄을 막아줘 (hello carbot 3 EP14)",
+          "duration": "13:13"
+        },
+        {
+          "id": "wEmdPu1RluE",
+          "title": "15화 사라진 도시가스 (hello carbot 3 EP15)",
+          "duration": "13:13"
+        },
+        {
+          "id": "Ov4TBXUKIpc",
+          "title": "16화 청소를 부탁해 (hello carbot 3 EP16)",
+          "duration": "11:28"
         }
       ]
     },
