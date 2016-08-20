@@ -1,103 +1,89 @@
 {
-  "ver": "20160429.1",
+  "ver": "20160821.2",
   "list": [
     {
-      "id": "zivGTCA6MF8",
+      "id": "TMBEIeYDfrw",
       "title": "로보카폴리 1기",
-      "ver": "20160310.1",
+      "ver": "20160821.2",
       "list": [
-        {
-          "id": "zivGTCA6MF8",
-          "duration": "36:05",
-          "title": "#01-03 연속보기"
-        },
-        {
-          "id": "gj3wtUzGUmk",
-          "duration": "22:55",
-          "title": "#04-06 연속보기"
-        },
-        {
-          "id": "smDQ2npYQJg",
-          "duration": "33:35",
-          "title": "#07-09 연속보기"
-        },
-        {
-          "id": "4bYAkAuvUzk",
-          "duration": "36:06",
-          "title": "#10-12 연속보기"
-        },
-        {
-          "id": "BBGGEfLkvCg",
-          "duration": "33:35",
-          "title": "#13-15 연속보기"
-        },
-        {
-          "id": "OIuy5Kgp3Tg",
-          "duration": "36:06",
-          "title": "#16-18 연속보기"
-        },
-        {
-          "id": "uVHpAf1mUPU",
-          "duration": "36:06",
-          "title": "#19-21 연속보기"
-        },
-        {
-          "id": "5F2SrnS2i1g",
-          "duration": "36:06",
-          "title": "#22-24 연속보기"
-        }
+        { "id":"lTjF5lEhbt0", "title":"로보카폴리 시즌1 - 오프닝", "duration": "1:21" },
+        { "id":"TMBEIeYDfrw", "title":"01화 브룸스타운의 구조대", "duration": "11:14" },
+        { "id":"WkZp1ropwfs", "title":"02화 스쿨비의 선물", "duration": "11:14" },
+        { "id":"kKzieNiqIDo", "title":"03화 콘크리트 대소동", "duration": "11:14" },
+        { "id":"PtGyAlpN72M", "title":"04화 친구가 생겼어요", "duration": "11:14" },
+        { "id":"LS9NjxvQBr0", "title":"05화 정기점검 하는 날", "duration": "11:14" },
+        { "id":"VyMKTEAj1b0", "title":"06화 유령소동", "duration": "11:14" },
+        { "id":"aLZ28vTzVuk", "title":"07화 서두르지 말아요", "duration": "11:14" },
+        { "id":"BuwHJ1NPdzA", "title":"08화 칭찬받고 싶어요", "duration": "11:14" },
+        { "id":"Snz_ZILHGaU", "title":"09화 의심하지 말아요", "duration": "11:14" },
+        { "id":"6eUDmKkQ4Gw", "title":"10화 헬리의 생일", "duration": "11:14" },
+        { "id":"vfsmZ_fe7wE", "title":"11화 클리니 어디가", "duration": "11:14" },
+        { "id":"VqIF7yvEqDo", "title":"12화 믹키가 화났어요", "duration": "11:14" },
+        { "id":"N2QaLPBWe2E", "title":"13화 할아버지 사랑해요", "duration": "11:14" },
+        { "id":"BouereE_Vwg", "title":"14화 실수해도 괜찮아", "duration": "11:14" },
+        { "id":"Hpj04CLTiyg", "title":"15화 뽐내기 대회", "duration": "11:14" },
+        { "id":"3NJwlrJd6dQ", "title":"16화 스쿨비의 약속", "duration": "11:14" },
+        { "id":"-tRYR77F_es", "title":"17화 부탁해 클리니", "duration": "11:14" },
+        { "id":"1imK42xJ704", "title":"18화 깨끗이 닦아요", "duration": "11:14" },
+        { "id":"eddfj9kzmLI", "title":"19화 우정나무", "duration": "11:14" },
+        { "id":"-Ue4gvR0JGs", "title":"20화 기억해 맥스", "duration": "11:14" },
+        { "id":"SGO14-PADkg", "title":"21화 숨바꼭질", "duration": "11:14" },
+        { "id":"nMjopg6PDnE", "title":"22화 베니의 꿈", "duration": "11:14" },
+        { "id":"p5OsFtdEW8g", "title":"23화 에너지위기 대탈출", "duration": "11:14" },
+        { "id":"pWJUqscaeU0", "title":"24화 누구 편을 들어야해요?", "duration": "11:14" },
+        { "id":"6cNDwaLe3aA", "title":"25화 테리가 아파요", "duration": "11:14" }
       ]
     },
     {
-      "id": "BQ1vMUSyEzw",
+      "id": "_FSL1ctUqNk",
       "title": "로보카폴리 2기",
-      "ver": "20160310.1",
+      "ver": "20160821.2",
       "list": [
-        {
-          "id": "BQ1vMUSyEzw",
-          "duration": "36:07",
-          "title": "#25-27 연속보기"
-        },
-        {
-          "id": "vz3EYy8wqy0",
-          "duration": "33:35",
-          "title": "#28-30 연속보기"
-        },
-        {
-          "id": "fybR4xivucs",
-          "duration": "33:35",
-          "title": "#31-33 연속보기"
-        },
-        {
-          "id": "2QY7d2NYT4o",
-          "duration": "33:35",
-          "title": "#34-36 연속보기"
-        },
-        {
-          "id": "JCe-0Muc1iU",
-          "duration": "33:35",
-          "title": "#37-39 연속보기"
-        },
-        {
-          "id": "R-d7nhnQoNk",
-          "duration": "33:35",
-          "title": "#40-42 연속보기"
-        },
-        {
-          "id": "D1TNLslT0rI",
-          "duration": "33:35",
-          "title": "#43-45 연속보기"
-        },
-        {
-          "id": "Nw8c1FPOR1c",
-          "duration": "33:35",
-          "title": "#46-48 연속보기"
-        },
-        {
-          "id": "xaCPWhai11w",
-          "duration": "44:46",
-          "title": "#49-52 연속보기"
-        }
+        { "id":"_FSL1ctUqNk", "title":"26화 새 친구 후퍼", "duration": "11:14" },
+        { "id":"njJT4vxRCgU", "title":"27화 로디는 거짓말쟁이", "duration": "11:14" },
+        { "id":"A4FH27cWZjQ", "title":"28화 욕심쟁이 휠러씨", "duration": "11:14" },
+        { "id":"X9kt15HHRic", "title":"29화 따라하지 말아요", "duration": "11:14" },
+        { "id":"kSyS43WV6vc", "title":"30화 늪소동", "duration": "11:14" },
+        { "id":"y_SyATvAeQM", "title":"31화 미니의 선물", "duration": "11:14" },
+        { "id":"YLoAE8M_HOQ", "title":"32화 레키,레티,레피", "duration": "11:14" },
+        { "id":"GSYTlIWiAtg", "title":"33화 같이놀자 포크", "duration": "11:14" },
+        { "id":"qacTBJ_HV0Q", "title":"34화 은혜갚은 클리니", "duration": "11:14" },
+        { "id":"EfPfJ63lU-M", "title":"35화 스푸키와 벌떼들", "duration": "11:14" },
+        { "id":"0hruob4XaUI", "title":"36화 나는 내가 좋아", "duration": "11:14" },
+        { "id":"ZhU9fAbnrzs", "title":"37화 애니의 여행", "duration": "11:14" },
+        { "id":"3J-MZ55hH9I", "title":"38화 보물찾기", "duration": "11:14" },
+        { "id":"xlmSrskFL-o", "title":"39화 바닷속 친구", "duration": "11:14" },
+        { "id":"Yvxm9AaM_II", "title":"40화 마음을 전해요", "duration": "11:14" },
+        { "id":"T0HuW3mZsiw", "title":"41화 쓰레기 소동", "duration": "11:14" },
+        { "id":"pNti-dUGRh0", "title":"42화 브루너의 새 공", "duration": "11:14" },
+        { "id":"Cs6xIxsLSCM", "title":"43화 갖고 싶어요", "duration": "11:13" },
+        { "id":"or1oRORcA6I", "title":"44화 어디있니 진", "duration": "11:13" },
+        { "id":"Dzt3mM69E4s", "title":"45화 포크의 비밀", "duration": "11:13" },
+        { "id":"jtpiY1F0CAk", "title":"46화 이상한스쿨비", "duration": "11:11" },
+        { "id":"hy6no1p_cUo", "title":"47화 용감한 머스티할아버지", "duration": "11:13" },
+        { "id":"J84DIvbP9gk", "title":"48화 제 얘기도 들어주세요", "duration": "11:13" },
+        { "id":"uihGVo25oKw", "title":"49화 캡은 깔끔해", "duration": "11:13" },
+        { "id":"LO1RaPX2hdc", "title":"50화 편지를 전해주고 싶어요", "duration": "11:13" },
+        { "id":"i587ugbfDxA", "title":"51화 브룸스타운의 합창단1", "duration": "11:13" },
+        { "id":"pwN6El4ptfA", "title":"52화 브룸스타운의 합창단2", "duration": "11:13" }
+      ]
+    },
+    {
+      "id": "YJ5QtlANXQU",
+      "title": "로보카폴리 테마별 모음",
+      "ver": "20160821.2",
+      "list": [
+        { "id":"YJ5QtlANXQU", "title":"안전하게 걸어요 1", "duration": "16:07" },
+        { "id":"spUQOzB0Gzc", "title":"안전하게 걸어요 2", "duration": "16:15" },
+        { "id":"dYYKpY1pq4w", "title":"안전하게 걸어요 3", "duration": "11:05" },
+        { "id":"VkeQ5s5IynI", "title":"길을 건널 땐", "duration": "21:30" },
+        { "id":"uiSKM5Asar0", "title":"안전사고 01", "duration": "34:35" },
+        { "id":"qGPIPlBQ2_g", "title":"생활안전 01", "duration": "33:55" },
+        { "id":"qrqP2rEjnag", "title":"생활안전 02", "duration": "45:07" },
+        { "id":"B2cNbGbdYAE", "title":"안전하게놀아요 01", "duration": "33:54" },
+        { "id":"kzVewKsC1mI", "title":"사고가 났을 때", "duration": "33:59" },
+        { "id":"Im2xxytDBdA", "title":"집안 안전", "duration": "33:51" },
+        { "id":"xBptfmCjxmI", "title":"야외 안전", "duration": "33:58" }
       ]
     },
     {
@@ -321,7 +307,7 @@
     },
     {
       "id": "o_uoVpLWc8A",
-      "title": "로보카폴리	폴리 따라 그리기",
+      "title": "폴리 따라 그리기",
       "ver": "20160429.1",
       "list": [
         {
