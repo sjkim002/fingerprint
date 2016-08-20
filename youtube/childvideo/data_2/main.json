@@ -1,5 +1,5 @@
 {
-  "ver": "20160820.1",
+  "ver": "20160820.3",
   "list": [
     {
       "id": "tdLeW41jdBo",
@@ -163,6 +163,12 @@
       "title": "뚜바뚜바 눈보리",
       "file": "ttubattuba_nunbori",
       "ver": "20160325.4"
+    },
+    {
+      "id": "G7_dn9raKqg",
+      "title": "꼬마돌 도도",
+      "file": "kids_stone_dodo",
+      "ver": "20160820.3"
     },
     {
       "id": "UVBpkyCixJQ",
