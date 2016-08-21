@@ -48,6 +48,9 @@ public class FingerprintDemoActivity extends AppCompatActivity {
         fingerprintManager =
                 (FingerprintManager) getSystemService(FINGERPRINT_SERVICE);
 
+        // 이 코드가 왜 존재하는지 모르겠다.
+        // 왜냐하면 이 코드가 없어서 지문인식기능을 사용하는데 전혀문제가 되지 않고 있다.
+        // 삼성계열 같은 경우에는 지문인식을 등록하고 잠금해제를 사용안하는 경우 isKeyguardSecure 함수가 false를 반환한다.
         if (!keyguardManager.isKeyguardSecure()) {
 
             Toast.makeText(this,
