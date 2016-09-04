@@ -1,10 +1,10 @@
 {
-  "ver": "20160501.1",
+  "ver": "20160904.1",
   "list": [
     {
       "id": "VCtap5sphUA",
       "title": "캐리의 장난감",
-      "ver": "20160501.1",
+      "ver": "20160904.1",
       "list": [
         {
           "id": "VCtap5sphUA",
@@ -26,16 +26,16 @@
           "title": "캐리와 엘리의 차례차례 똑똑 보드게임",
           "duration": "0:00"
         },
-        {
-          "id": "gNnxMwo-VNI",
-          "title": "캐리의 촉촉이 모래 볼케이노 장난감 야광 모래",
-          "duration": "0:00"
-        },
-        {
-          "id": "2VpLdnhaNUc",
-          "title": "뽀로로 빠방 스쿨버스 장난감 캐리의 인형",
-          "duration": "0:00"
-        },
+//        {
+//          "id": "gNnxMwo-VNI",
+//          "title": "캐리의 촉촉이 모래 볼케이노 장난감 야광 모래",
+//          "duration": "0:00"
+//        },
+//        {
+//          "id": "2VpLdnhaNUc",
+//          "title": "뽀로로 빠방 스쿨버스 장난감 캐리의 인형",
+//          "duration": "0:00"
+//        },
         {
           "id": "TqUuxgXv2as",
           "title": "캐리의 말랑 파티쉐 장난감 케이크와 파르페 만들기",
@@ -86,11 +86,11 @@
           "title": "또봇 애슬론 알파 베타 캐리의 변신 로봇 자동차 장난감",
           "duration": "6:42"
         },
-        {
-          "id": "jXePKq3rK2g",
-          "title": "꼬마버스 타요 아이와샌드 장난감과 캐리의 모래놀이",
-          "duration": "7:31"
-        },
+//        {
+//          "id": "jXePKq3rK2g",
+//          "title": "꼬마버스 타요 아이와샌드 장난감과 캐리의 모래놀이",
+//          "duration": "7:31"
+//        },
         {
           "id": "V7sD8Ogje3k",
           "title": "색이 변하는 변덕쟁이 카멜레옹 장난감 인형 놀이",
@@ -106,11 +106,11 @@
           "title": "'뚝딱송' 캐리와 함께 불러요!",
           "duration": "2:52"
         },
-        {
-          "id": "N9gYSjAGKmQ",
-          "title": "뽀로로 아이스바 만들기 장난감",
-          "duration": "13:11"
-        },
+//        {
+//          "id": "N9gYSjAGKmQ",
+//          "title": "뽀로로 아이스바 만들기 장난감",
+//          "duration": "13:11"
+//        },
         {
           "id": "0SUKnWhBSDg",
           "title": "로보카폴리 자동변신 장난감",
@@ -121,11 +121,11 @@
           "title": "시크릿 쥬쥬 하프 장난감",
           "duration": "6:43"
         },
-        {
-          "id": "kyPJr7JqGPk",
-          "title": "뽀로로 해피 반창고",
-          "duration": "8:47"
-        },
+//        {
+//          "id": "kyPJr7JqGPk",
+//          "title": "뽀로로 해피 반창고",
+//          "duration": "8:47"
+//        },
         {
           "id": "5kM7dmFTxwE",
           "title": "콩순이 말하는 냉장고",
@@ -236,21 +236,21 @@
           "title": "로보카폴리 워킹토이 종이 인형",
           "duration": "15:24"
         },
-        {
-          "id": "xL2wv0aypXE",
-          "title": "뽀로로 캠핑놀이",
-          "duration": "10:43"
-        },
+//        {
+//          "id": "xL2wv0aypXE",
+//          "title": "뽀로로 캠핑놀이",
+//          "duration": "10:43"
+//        },
         {
           "id": "gkvboOokyE0",
           "title": "디즈니 공주 캐릭터로 스노우볼 장난감 만들기",
           "duration": "9:24"
         },
-        {
-          "id": "-eDpxd4tb4o",
-          "title": "삼일절 기념 색모래로 태극기",
-          "duration": "12:37"
-        },
+//        {
+//          "id": "-eDpxd4tb4o",
+//          "title": "삼일절 기념 색모래로 태극기",
+//          "duration": "12:37"
+//        },
         {
           "id": "boYd4YSpHJU",
           "title": "미미 네일아트 스튜디오 장난감 손톱",
@@ -306,11 +306,11 @@
           "title": "아이스크림 냉장고 장난감 소꿉놀이",
           "duration": "13:53"
         },
-        {
-          "id": "sVJuDRTKyg0",
-          "title": "꼬마버스 타요와 주유소 가니 라니 블럭 장난감 자동차 놀이",
-          "duration": "13:33"
-        },
+//        {
+//          "id": "sVJuDRTKyg0",
+//          "title": "꼬마버스 타요와 주유소 가니 라니 블럭 장난감 자동차 놀이",
+//          "duration": "13:33"
+//        },
         {
           "id": "7Af0-qtGJ1E",
           "title": "또봇 마하W 비행기 변신",
@@ -336,16 +336,16 @@
           "title": "아기물범 하프 올록볼록 입체 스티커",
           "duration": "13:37"
         },
-        {
-          "id": "NqizePJbbqk",
-          "title": "뽀로로 점토로 배우는 한글 숫자놀이",
-          "duration": "15:47"
-        },
-        {
-          "id": "hXC546luSDA",
-          "title": "베이비 타요 말하는 주차장 장난감 자동차",
-          "duration": "9:22"
-        },
+//        {
+//          "id": "NqizePJbbqk",
+//          "title": "뽀로로 점토로 배우는 한글 숫자놀이",
+//          "duration": "15:47"
+//        },
+//        {
+//          "id": "hXC546luSDA",
+//          "title": "베이비 타요 말하는 주차장 장난감 자동차",
+//          "duration": "9:22"
+//        },
         {
           "id": "TPpyKKw9Wag",
           "title": "달님이 아이스크림 가게 장난감 점토",
@@ -571,11 +571,11 @@
           "title": "꿈의 라이브 프리즘기타",
           "duration": "6:14"
         },
-        {
-          "id": "cmsr5N20cAY",
-          "title": "뽀로로 무빙 낚시 게임",
-          "duration": "6:22"
-        },
+//        {
+//          "id": "cmsr5N20cAY",
+//          "title": "뽀로로 무빙 낚시 게임",
+//          "duration": "6:22"
+//        },
         {
           "id": "qjOMEpbrag0",
           "title": "트윙클 스티커",
@@ -606,31 +606,31 @@
           "title": "듀플로 디즈니 프린세스",
           "duration": "8:42"
         },
-        {
-          "id": "B8D5zsqxJCc",
-          "title": "쌩쌩 장난감 운동회",
-          "duration": "12:12"
-        },
+//        {
+//          "id": "B8D5zsqxJCc",
+//          "title": "쌩쌩 장난감 운동회",
+//          "duration": "12:12"
+//        },
         {
           "id": "jWd-tP_vvfE",
           "title": "서프라이즈 박스 - 변신 자동차",
           "duration": "5:37"
         },
-        {
-          "id": "Sml5LFvA8n4",
-          "title": "아야야야 배탈이 났어요!",
-          "duration": "11:24"
-        },
+//        {
+//          "id": "Sml5LFvA8n4",
+//          "title": "아야야야 배탈이 났어요!",
+//          "duration": "11:24"
+//        },
         {
           "id": "dpnUC9WBEJM",
           "title": "서프라이즈 박스 - 점토케이크",
           "duration": "6:05"
         },
-        {
-          "id": "a59QKR703zE",
-          "title": "쓱싹쓱싹 분리수거를 해요",
-          "duration": "12:56"
-        },
+//        {
+//          "id": "a59QKR703zE",
+//          "title": "쓱싹쓱싹 분리수거를 해요",
+//          "duration": "12:56"
+//        },
         {
           "id": "9xdXkALuHCo",
           "title": "서프라이즈 박스 - 반짝반짝 스노우볼",
@@ -897,7 +897,7 @@
     {
       "id": "_GLxX-ljVjQ",
       "title": "캐리의 서프라이즈 에그",
-      "ver": "20160501.1",
+      "ver": "20160904.1",
       "list": [
         {
           "id": "_GLxX-ljVjQ",
@@ -914,11 +914,11 @@
           "title": "서프라이즈 에그 헬로키티 장난감 & 아이도우 아이스크림만들기",
           "duration": "9:14"
         },
-        {
-          "id": "8lZ5dsLS2UY",
-          "title": "서프라이즈 에그 뽀로로, 라바 &디즈니 카2 알까기",
-          "duration": "6:06"
-        },
+//        {
+//          "id": "8lZ5dsLS2UY",
+//          "title": "서프라이즈 에그 뽀로로, 라바 &디즈니 카2 알까기",
+//          "duration": "6:06"
+//        },
         {
           "id": "ovjfcZU3M1o",
           "title": "서프라이즈 에그 플레이도우 포켓몬스터, 미니카 장난감",
