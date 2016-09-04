@@ -1,5 +1,5 @@
 {
-  "ver": "20160821.3",
+  "ver": "20160904.1",
   "list": [
     {
       "id": "tdLeW41jdBo",
@@ -516,7 +516,7 @@
       "id": "VCtap5sphUA",
       "title": "장난감",
       "file": "toys",
-      "ver": "20160501.1"
+      "ver": "20160904.1"
     },
     {
       "id": "01qh7X3O6JQ",
@@ -807,12 +807,6 @@
       "ver": "20160501.1"
     },
     {
-      "id": "emK_2LpzRkQ",
-      "title": "베리베리 뮤우뮤우",
-      "file": "tokyo_mew_mew",
-      "ver": "20160501.1"
-    },
-    {
       "id": "j8rrhe9O2vg",
       "title": "종이접기",
       "file": "origami",
@@ -972,7 +966,7 @@
       "id": "Alu-n-850PQ",
       "title": "짜장소녀 뿌까",
       "file": "jjajang_girl_pucca",
-      "ver": "20160501.1"
+      "ver": "20160904.1"
     },
     {
       "id": "A9YGyykQYpo",
@@ -1032,7 +1026,7 @@
       "id": "faArmZxwtT0",
       "title": "단편애니모음",
       "file": "short_anime_collection",
-      "ver": "20160501.1"
+      "ver": "20160904.1"
     },
     {
       "id": "S6o0HG_N-Rg",
@@ -1398,7 +1392,7 @@
       "id": "tUWhE1t5JlE",
       "title": "보안관 샘(영어)",
       "file": "fireman_sam",
-      "ver": "20160620.1"
+      "ver": "20160904.1"
     },
     {
       "id": "LQTFUZ_7g7Q",

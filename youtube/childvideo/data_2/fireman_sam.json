@@ -1,5 +1,5 @@
 {
-  "ver": "20160620.1",
+  "ver": "20160904.1",
   "list": [
     {
       "id": "tUWhE1t5JlE",
@@ -162,15 +162,10 @@
       ]
     },
     {
-      "id": "0KX6tGgDYe4",
+      "id": "1VGMtWYKliY",
       "title": "Fireman Sam",
-      "ver": "20160620.1",
+      "ver": "20160904.1",
       "list": [
-        {
-          "id": "0KX6tGgDYe4",
-          "title": "Brave New Rescues",
-          "duration": "50:20"
-        },
         {
           "id": "1VGMtWYKliY",
           "title": "Brandman Sam",

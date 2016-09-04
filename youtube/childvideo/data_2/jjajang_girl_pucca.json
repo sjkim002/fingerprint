@@ -1,10 +1,10 @@
 {
-  "ver": "20160501.1",
+  "ver": "20160904.1",
   "list": [
     {
       "id": "Alu-n-850PQ",
       "title": "짜장소녀 뿌까",
-      "ver": "20160501.1",
+      "ver": "20160904.1",
       "list": [
         {
           "id": "Alu-n-850PQ",
@@ -52,24 +52,9 @@
           "duration": "2:34"
         },
         {
-          "id": "8yeb7CTWuDs",
-          "title": "10화 두루마리를 지켜라",
-          "duration": "2:34"
-        },
-        {
-          "id": "3u0Dk5A9b_Y",
-          "title": "11화 화이트 데이, 대보름 그네",
-          "duration": "2:30"
-        },
-        {
           "id": "nT4pTN8jrzg",
           "title": "12화 여름 이야기",
           "duration": "2:30"
-        },
-        {
-          "id": "YfEm9egoF3E",
-          "title": "13화 미오 초코렛 심부름",
-          "duration": "2:34"
         },
         {
           "id": "pM0UZJD4ZbI",
@@ -79,11 +64,6 @@
         {
           "id": "BS1q8c6mvZg",
           "title": "15화 아뵤",
-          "duration": "2:34"
-        },
-        {
-          "id": "_iDK3EHDmxs",
-          "title": "16화 반지, 날 좀 봐줘",
           "duration": "2:34"
         },
         {
@@ -110,11 +90,6 @@
           "id": "GEXmP71yOLY",
           "title": "21화 번지점프",
           "duration": "2:34"
-        },
-        {
-          "id": "RtusjM8I864",
-          "title": "22화 거룡반점 신장개업",
-          "duration": "2:30"
         },
         {
           "id": "C495z1YOHoM",
@@ -258,7 +233,7 @@
     {
       "id": "kQs1qE8ynow",
       "title": "짜장소녀 뿌까 에피소드",
-      "ver": "20160501.1",
+      "ver": "20160904.1",
       "list": [
         {
           "id": "kQs1qE8ynow",
@@ -271,18 +246,8 @@
           "duration": "1:51"
         },
         {
-          "id": "Y4fwCYN-MlI",
-          "title": "초콜릿 대소동",
-          "duration": "2:10"
-        },
-        {
           "id": "n4bIljv4l4Q",
           "title": "수상스키",
-          "duration": "2:10"
-        },
-        {
-          "id": "BoIgjPKCJcY",
-          "title": "봄의 향기",
           "duration": "2:10"
         },
         {
